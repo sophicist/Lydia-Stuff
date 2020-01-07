@@ -1,0 +1,1011 @@
+,music,pets,flying,storm,darkness,heights,spiders,snakes,rats,ageing,dangerous_dogs,fear_of_public_speaking,smoking,alcohol,parents'_advice,internet_usage,branded_clothing,gender,left_-_right_handed,only_child
+0,5.0,4.0,1.0,1.0,1.0,1.0,1.0,5,3.0,1.0,3.0,2.0,never smoked,drink a lot,4.0,few hours a day,5.0,female,right handed,no
+1,4.0,5.0,1.0,1.0,1.0,2.0,1.0,1,1.0,3.0,1.0,4.0,never smoked,drink a lot,2.0,few hours a day,1.0,female,right handed,no
+2,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,drink a lot,3.0,few hours a day,1.0,female,right handed,no
+3,5.0,1.0,2.0,1.0,1.0,3.0,5.0,5,5.0,4.0,5.0,5.0,former smoker,drink a lot,2.0,most of the day,3.0,female,right handed,yes
+4,5.0,1.0,1.0,2.0,1.0,1.0,1.0,1,2.0,2.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,no
+5,5.0,2.0,3.0,2.0,2.0,2.0,1.0,2,2.0,1.0,1.0,3.0,never smoked,never,3.0,few hours a day,3.0,male,right handed,no
+6,5.0,5.0,1.0,3.0,2.0,1.0,1.0,5,1.0,4.0,1.0,1.0,tried smoking,social drinker,4.0,less than an hour a day,1.0,female,right handed,no
+7,5.0,5.0,3.0,2.0,4.0,3.0,1.0,5,3.0,1.0,2.0,4.0,current smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+8,5.0,1.0,2.0,3.0,1.0,5.0,5.0,5,2.0,2.0,3.0,4.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+9,5.0,2.0,4.0,5.0,4.0,5.0,3.0,4,4.0,3.0,5.0,3.0,never smoked,drink a lot,3.0,few hours a day,4.0,female,right handed,no
+10,5.0,5.0,1.0,1.0,2.0,2.0,2.0,1,1.0,1.0,4.0,2.0,current smoker,social drinker,4.0,less than an hour a day,2.0,female,left handed,no
+11,5.0,1.0,4.0,1.0,1.0,3.0,5.0,5,5.0,5.0,5.0,5.0,tried smoking,never,4.0,few hours a day,1.0,female,right handed,no
+12,5.0,2.0,1.0,1.0,1.0,1.0,1.0,3,1.0,5.0,2.0,2.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+13,5.0,5.0,2.0,3.0,3.0,4.0,3.0,4,3.0,2.0,1.0,3.0,never smoked,social drinker,3.0,few hours a day,2.0,female,right handed,no
+14,5.0,5.0,5.0,5.0,3.0,3.0,2.0,5,1.0,5.0,5.0,3.0,current smoker,social drinker,4.0,most of the day,1.0,female,right handed,no
+15,1.0,1.0,5.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,former smoker,social drinker,4.0,few hours a day,1.0,male,right handed,yes
+16,5.0,5.0,1.0,3.0,5.0,4.0,5.0,3,1.0,2.0,5.0,4.0,current smoker,drink a lot,3.0,few hours a day,4.0,female,right handed,no
+17,5.0,5.0,3.0,5.0,5.0,5.0,4.0,4,1.0,5.0,5.0,3.0,tried smoking,social drinker,1.0,few hours a day,2.0,female,right handed,no
+18,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+19,5.0,1.0,3.0,2.0,2.0,4.0,4.0,2,2.0,2.0,2.0,3.0,former smoker,drink a lot,2.0,few hours a day,4.0,male,left handed,no
+20,5.0,3.0,2.0,2.0,2.0,2.0,2.0,2,2.0,1.0,1.0,2.0,never smoked,never,3.0,few hours a day,3.0,male,right handed,no
+21,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,social drinker,3.0,few hours a day,1.0,male,left handed,no
+22,5.0,5.0,1.0,2.0,1.0,1.0,5.0,5,3.0,1.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+23,5.0,5.0,2.0,4.0,5.0,3.0,3.0,3,2.0,3.0,3.0,3.0,tried smoking,social drinker,2.0,few hours a day,4.0,female,right handed,no
+24,5.0,3.0,1.0,1.0,2.0,1.0,5.0,5,4.0,5.0,5.0,5.0,tried smoking,never,4.0,few hours a day,5.0,female,right handed,no
+25,5.0,3.0,3.0,2.0,2.0,3.0,5.0,2,1.0,4.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,yes
+26,5.0,5.0,1.0,1.0,1.0,1.0,1.0,2,1.0,2.0,2.0,3.0,tried smoking,social drinker,5.0,few hours a day,4.0,female,left handed,no
+27,4.0,5.0,3.0,5.0,2.0,2.0,5.0,5,1.0,4.0,1.0,2.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+28,5.0,3.0,1.0,1.0,2.0,4.0,4.0,4,3.0,4.0,1.0,2.0,former smoker,social drinker,3.0,few hours a day,5.0,male,left handed,yes
+29,5.0,2.0,3.0,3.0,4.0,5.0,5.0,5,5.0,5.0,5.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+30,4.0,3.0,1.0,1.0,1.0,3.0,5.0,3,3.0,4.0,3.0,4.0,former smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+31,4.0,1.0,1.0,1.0,1.0,1.0,2.0,5,3.0,1.0,3.0,2.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+32,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5,5.0,1.0,5.0,2.0,current smoker,social drinker,3.0,few hours a day,1.0,female,left handed,no
+33,5.0,5.0,1.0,5.0,2.0,4.0,4.0,5,3.0,1.0,2.0,4.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+34,5.0,1.0,1.0,2.0,2.0,1.0,2.0,2,2.0,1.0,2.0,3.0,tried smoking,social drinker,2.0,few hours a day,4.0,male,right handed,no
+35,5.0,5.0,3.0,5.0,3.0,3.0,4.0,5,4.0,5.0,5.0,1.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+36,5.0,5.0,3.0,1.0,4.0,3.0,5.0,4,1.0,3.0,2.0,5.0,never smoked,social drinker,5.0,few hours a day,4.0,female,right handed,no
+37,5.0,3.0,1.0,1.0,1.0,3.0,,1,1.0,3.0,3.0,2.0,former smoker,social drinker,3.0,few hours a day,5.0,male,right handed,no
+38,5.0,5.0,3.0,4.0,2.0,4.0,5.0,1,1.0,1.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+39,5.0,5.0,3.0,3.0,2.0,2.0,5.0,5,5.0,3.0,4.0,4.0,never smoked,never,3.0,few hours a day,3.0,female,right handed,no
+40,4.0,2.0,1.0,3.0,5.0,3.0,5.0,2,5.0,3.0,5.0,3.0,never smoked,social drinker,1.0,few hours a day,1.0,female,right handed,no
+41,5.0,3.0,2.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,social drinker,3.0,few hours a day,1.0,male,right handed,no
+42,5.0,5.0,1.0,1.0,3.0,1.0,5.0,1,1.0,1.0,3.0,5.0,never smoked,never,2.0,few hours a day,1.0,female,right handed,yes
+43,5.0,5.0,1.0,3.0,4.0,5.0,5.0,5,3.0,2.0,4.0,1.0,tried smoking,drink a lot,3.0,most of the day,5.0,female,right handed,no
+44,4.0,5.0,3.0,2.0,4.0,5.0,5.0,5,3.0,3.0,5.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+45,5.0,4.0,5.0,2.0,2.0,5.0,5.0,4,1.0,5.0,4.0,4.0,never smoked,social drinker,1.0,most of the day,4.0,male,right handed,no
+46,5.0,4.0,1.0,1.0,1.0,1.0,1.0,2,1.0,1.0,2.0,1.0,current smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+47,5.0,5.0,1.0,2.0,1.0,3.0,1.0,3,5.0,3.0,4.0,4.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,yes
+48,5.0,2.0,3.0,1.0,2.0,2.0,2.0,3,3.0,5.0,3.0,1.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+49,5.0,5.0,3.0,1.0,5.0,4.0,5.0,3,2.0,3.0,2.0,5.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+50,4.0,5.0,1.0,2.0,1.0,2.0,2.0,2,4.0,2.0,5.0,4.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+51,5.0,4.0,3.0,1.0,3.0,1.0,5.0,1,1.0,1.0,2.0,2.0,never smoked,never,4.0,less than an hour a day,1.0,female,right handed,no
+52,5.0,3.0,3.0,3.0,5.0,4.0,5.0,5,4.0,3.0,1.0,3.0,current smoker,social drinker,3.0,few hours a day,1.0,female,right handed,no
+53,5.0,1.0,3.0,1.0,1.0,1.0,5.0,1,3.0,1.0,3.0,5.0,tried smoking,social drinker,4.0,less than an hour a day,3.0,female,right handed,no
+54,5.0,1.0,3.0,2.0,5.0,5.0,3.0,5,4.0,1.0,5.0,2.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+55,5.0,5.0,2.0,2.0,5.0,3.0,5.0,5,5.0,3.0,5.0,4.0,current smoker,drink a lot,2.0,few hours a day,3.0,female,right handed,no
+56,5.0,3.0,3.0,1.0,5.0,3.0,3.0,5,1.0,5.0,1.0,3.0,current smoker,drink a lot,3.0,few hours a day,3.0,female,left handed,
+57,5.0,5.0,2.0,2.0,2.0,2.0,5.0,3,3.0,4.0,4.0,5.0,current smoker,drink a lot,5.0,few hours a day,4.0,female,right handed,no
+58,5.0,3.0,1.0,1.0,2.0,5.0,1.0,5,3.0,5.0,4.0,3.0,never smoked,social drinker,4.0,few hours a day,2.0,male,right handed,no
+59,5.0,1.0,5.0,1.0,1.0,4.0,2.0,3,1.0,1.0,2.0,5.0,current smoker,drink a lot,3.0,few hours a day,3.0,male,right handed,no
+60,5.0,1.0,1.0,1.0,1.0,2.0,2.0,3,2.0,2.0,3.0,5.0,tried smoking,social drinker,3.0,most of the day,2.0,male,right handed,no
+61,5.0,5.0,1.0,1.0,1.0,3.0,3.0,4,4.0,4.0,4.0,2.0,current smoker,social drinker,4.0,few hours a day,5.0,male,left handed,no
+62,5.0,1.0,5.0,5.0,5.0,5.0,5.0,5,5.0,5.0,5.0,4.0,never smoked,social drinker,4.0,few hours a day,3.0,male,right handed,no
+63,5.0,3.0,3.0,2.0,2.0,4.0,,4,3.0,2.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,5.0,male,right handed,no
+64,5.0,5.0,1.0,2.0,5.0,3.0,5.0,1,3.0,5.0,4.0,3.0,former smoker,social drinker,4.0,most of the day,5.0,female,right handed,yes
+65,4.0,3.0,1.0,1.0,2.0,2.0,1.0,2,1.0,4.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,left handed,yes
+66,4.0,1.0,3.0,2.0,3.0,5.0,1.0,3,2.0,1.0,1.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,male,right handed,no
+67,3.0,4.0,1.0,1.0,2.0,4.0,1.0,3,2.0,2.0,5.0,2.0,never smoked,never,2.0,few hours a day,2.0,female,right handed,yes
+68,5.0,4.0,3.0,5.0,2.0,2.0,4.0,5,3.0,1.0,3.0,5.0,tried smoking,drink a lot,2.0,few hours a day,3.0,female,right handed,no
+69,5.0,4.0,2.0,5.0,1.0,1.0,1.0,5,5.0,1.0,5.0,3.0,tried smoking,social drinker,4.0,most of the day,3.0,female,left handed,no
+70,5.0,2.0,2.0,2.0,2.0,2.0,4.0,3,3.0,3.0,4.0,3.0,former smoker,social drinker,5.0,few hours a day,2.0,male,right handed,yes
+71,4.0,5.0,1.0,1.0,1.0,4.0,3.0,4,3.0,5.0,5.0,1.0,tried smoking,never,3.0,few hours a day,2.0,male,left handed,yes
+72,5.0,2.0,1.0,3.0,3.0,3.0,5.0,5,4.0,3.0,4.0,4.0,former smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+73,5.0,5.0,5.0,2.0,1.0,3.0,3.0,3,3.0,5.0,3.0,5.0,former smoker,social drinker,4.0,few hours a day,4.0,male,right handed,yes
+74,5.0,3.0,5.0,5.0,1.0,4.0,3.0,4,3.0,3.0,5.0,2.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,no
+75,5.0,4.0,2.0,1.0,2.0,5.0,1.0,2,1.0,1.0,2.0,1.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+76,4.0,3.0,2.0,3.0,2.0,3.0,1.0,5,2.0,1.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,male,right handed,no
+77,5.0,1.0,1.0,1.0,1.0,3.0,5.0,5,2.0,2.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,no
+78,4.0,3.0,1.0,1.0,1.0,1.0,3.0,3,3.0,5.0,3.0,4.0,never smoked,never,4.0,few hours a day,1.0,female,right handed,no
+79,5.0,5.0,2.0,3.0,2.0,4.0,5.0,5,5.0,2.0,3.0,4.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+80,5.0,5.0,2.0,1.0,4.0,2.0,3.0,4,3.0,1.0,3.0,4.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+81,5.0,2.0,1.0,1.0,2.0,2.0,1.0,1,1.0,1.0,4.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+82,5.0,5.0,2.0,1.0,5.0,2.0,3.0,4,1.0,1.0,3.0,5.0,never smoked,social drinker,3.0,few hours a day,1.0,female,right handed,no
+83,5.0,5.0,3.0,4.0,5.0,3.0,5.0,4,4.0,3.0,3.0,3.0,former smoker,social drinker,2.0,few hours a day,1.0,female,right handed,no
+84,5.0,5.0,1.0,1.0,1.0,3.0,3.0,1,1.0,1.0,1.0,4.0,former smoker,drink a lot,4.0,few hours a day,5.0,female,right handed,yes
+85,5.0,1.0,2.0,3.0,4.0,5.0,2.0,4,4.0,1.0,4.0,3.0,tried smoking,social drinker,2.0,most of the day,4.0,male,right handed,no
+86,4.0,2.0,4.0,4.0,4.0,4.0,2.0,2,3.0,3.0,1.0,5.0,current smoker,social drinker,4.0,few hours a day,4.0,male,right handed,no
+87,5.0,3.0,1.0,2.0,2.0,1.0,3.0,3,3.0,5.0,3.0,2.0,former smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+88,5.0,5.0,5.0,2.0,2.0,4.0,5.0,1,2.0,1.0,5.0,5.0,former smoker,drink a lot,5.0,few hours a day,5.0,female,right handed,yes
+89,5.0,2.0,3.0,3.0,2.0,3.0,2.0,3,5.0,4.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+90,4.0,3.0,2.0,3.0,1.0,3.0,5.0,3,1.0,5.0,4.0,3.0,tried smoking,social drinker,3.0,most of the day,4.0,female,right handed,no
+91,5.0,1.0,1.0,3.0,1.0,1.0,5.0,5,5.0,5.0,5.0,1.0,never smoked,social drinker,4.0,few hours a day,5.0,female,right handed,no
+92,5.0,3.0,2.0,1.0,2.0,1.0,1.0,2,1.0,1.0,2.0,2.0,never smoked,social drinker,4.0,few hours a day,4.0,female,right handed,yes
+93,5.0,3.0,5.0,4.0,2.0,4.0,2.0,1,,1.0,1.0,1.0,current smoker,drink a lot,2.0,few hours a day,3.0,male,right handed,no
+94,5.0,3.0,1.0,1.0,1.0,4.0,2.0,1,1.0,1.0,1.0,3.0,tried smoking,social drinker,1.0,most of the day,4.0,male,right handed,no
+95,5.0,4.0,1.0,2.0,2.0,1.0,4.0,4,4.0,4.0,5.0,2.0,tried smoking,drink a lot,2.0,few hours a day,5.0,male,right handed,no
+96,5.0,1.0,1.0,1.0,1.0,2.0,4.0,1,1.0,1.0,5.0,5.0,former smoker,drink a lot,2.0,few hours a day,1.0,male,right handed,no
+97,5.0,5.0,1.0,1.0,2.0,3.0,2.0,4,1.0,1.0,1.0,2.0,tried smoking,drink a lot,3.0,most of the day,1.0,male,right handed,no
+98,3.0,1.0,1.0,1.0,1.0,3.0,5.0,1,1.0,3.0,3.0,1.0,former smoker,drink a lot,1.0,few hours a day,4.0,male,right handed,no
+99,5.0,4.0,2.0,2.0,3.0,3.0,5.0,2,1.0,2.0,2.0,4.0,never smoked,social drinker,4.0,less than an hour a day,2.0,female,left handed,no
+100,5.0,2.0,3.0,4.0,3.0,5.0,4.0,3,3.0,1.0,5.0,3.0,tried smoking,drink a lot,4.0,few hours a day,1.0,female,right handed,no
+101,5.0,3.0,2.0,1.0,1.0,2.0,5.0,5,3.0,1.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,2.0,male,right handed,no
+102,5.0,1.0,1.0,2.0,4.0,1.0,1.0,1,4.0,2.0,1.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+103,5.0,1.0,1.0,1.0,1.0,1.0,4.0,4,1.0,4.0,2.0,1.0,tried smoking,drink a lot,5.0,few hours a day,1.0,male,right handed,yes
+104,4.0,2.0,1.0,1.0,1.0,3.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,drink a lot,4.0,few hours a day,2.0,male,right handed,no
+105,5.0,4.0,1.0,2.0,1.0,2.0,1.0,4,2.0,1.0,2.0,2.0,never smoked,social drinker,3.0,few hours a day,2.0,male,right handed,no
+106,5.0,1.0,2.0,1.0,1.0,1.0,2.0,2,2.0,3.0,2.0,3.0,former smoker,social drinker,3.0,few hours a day,1.0,male,right handed,no
+107,5.0,4.0,4.0,2.0,5.0,1.0,1.0,1,3.0,1.0,,1.0,tried smoking,social drinker,5.0,less than an hour a day,3.0,female,right handed,no
+108,4.0,3.0,1.0,1.0,2.0,4.0,5.0,3,2.0,5.0,4.0,2.0,never smoked,social drinker,2.0,few hours a day,4.0,female,right handed,no
+109,5.0,1.0,3.0,1.0,3.0,2.0,1.0,4,4.0,1.0,3.0,4.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,yes
+110,5.0,3.0,1.0,1.0,2.0,4.0,4.0,4,1.0,2.0,1.0,2.0,former smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+111,5.0,1.0,2.0,2.0,2.0,3.0,5.0,4,5.0,1.0,5.0,5.0,tried smoking,social drinker,3.0,most of the day,1.0,female,right handed,no
+112,5.0,3.0,2.0,4.0,3.0,1.0,4.0,4,1.0,2.0,3.0,3.0,never smoked,social drinker,3.0,less than an hour a day,2.0,female,left handed,no
+113,3.0,5.0,1.0,1.0,3.0,,3.0,3,3.0,1.0,1.0,1.0,former smoker,social drinker,4.0,few hours a day,4.0,female,right handed,no
+114,5.0,5.0,1.0,1.0,2.0,2.0,5.0,5,1.0,3.0,5.0,5.0,former smoker,drink a lot,4.0,less than an hour a day,3.0,female,right handed,no
+115,5.0,3.0,1.0,1.0,4.0,5.0,5.0,5,3.0,5.0,5.0,2.0,tried smoking,social drinker,3.0,few hours a day,5.0,female,right handed,yes
+116,5.0,4.0,4.0,2.0,5.0,5.0,5.0,5,1.0,3.0,5.0,4.0,former smoker,social drinker,4.0,few hours a day,1.0,female,right handed,no
+117,5.0,5.0,3.0,1.0,2.0,4.0,3.0,5,3.0,2.0,2.0,4.0,never smoked,never,4.0,few hours a day,1.0,female,right handed,no
+118,5.0,4.0,2.0,1.0,1.0,1.0,2.0,1,1.0,2.0,1.0,3.0,never smoked,social drinker,3.0,few hours a day,2.0,male,right handed,no
+119,4.0,3.0,4.0,2.0,1.0,2.0,2.0,4,1.0,1.0,2.0,3.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+120,5.0,5.0,1.0,1.0,2.0,1.0,1.0,4,4.0,1.0,1.0,2.0,never smoked,drink a lot,2.0,most of the day,1.0,male,right handed,yes
+121,4.0,3.0,1.0,1.0,1.0,2.0,1.0,2,3.0,2.0,3.0,3.0,current smoker,social drinker,2.0,few hours a day,3.0,male,right handed,no
+122,5.0,4.0,4.0,2.0,1.0,2.0,2.0,4,3.0,2.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,yes
+123,5.0,4.0,2.0,2.0,1.0,1.0,1.0,1,1.0,3.0,2.0,4.0,tried smoking,never,3.0,few hours a day,1.0,female,left handed,yes
+124,4.0,4.0,1.0,1.0,1.0,2.0,1.0,1,1.0,1.0,2.0,1.0,current smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+125,5.0,5.0,3.0,2.0,2.0,2.0,4.0,3,2.0,4.0,4.0,3.0,never smoked,social drinker,4.0,few hours a day,2.0,female,right handed,no
+126,3.0,1.0,4.0,3.0,5.0,4.0,1.0,4,4.0,4.0,5.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+127,4.0,2.0,1.0,2.0,2.0,2.0,2.0,2,2.0,4.0,2.0,2.0,tried smoking,social drinker,2.0,most of the day,1.0,female,right handed,no
+128,5.0,5.0,1.0,1.0,1.0,3.0,1.0,1,1.0,5.0,5.0,5.0,never smoked,never,3.0,few hours a day,3.0,female,left handed,no
+129,5.0,5.0,2.0,4.0,4.0,2.0,2.0,1,2.0,3.0,1.0,3.0,never smoked,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+130,4.0,1.0,1.0,1.0,3.0,1.0,4.0,4,5.0,5.0,4.0,3.0,,,4.0,few hours a day,5.0,female,right handed,no
+131,5.0,3.0,1.0,2.0,3.0,4.0,2.0,2,3.0,1.0,4.0,2.0,former smoker,social drinker,2.0,few hours a day,5.0,male,right handed,yes
+132,5.0,5.0,1.0,1.0,2.0,1.0,5.0,3,5.0,3.0,1.0,4.0,tried smoking,never,2.0,most of the day,3.0,female,right handed,no
+133,5.0,4.0,3.0,3.0,5.0,4.0,4.0,4,2.0,2.0,3.0,2.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,female,right handed,no
+134,5.0,4.0,3.0,3.0,3.0,3.0,5.0,3,1.0,5.0,5.0,5.0,former smoker,social drinker,1.0,few hours a day,5.0,female,right handed,yes
+135,5.0,5.0,4.0,4.0,5.0,5.0,5.0,2,1.0,3.0,1.0,1.0,current smoker,drink a lot,3.0,few hours a day,3.0,male,right handed,no
+136,5.0,3.0,1.0,1.0,2.0,4.0,5.0,3,1.0,1.0,3.0,2.0,never smoked,never,4.0,few hours a day,4.0,male,right handed,no
+137,5.0,1.0,5.0,2.0,2.0,2.0,3.0,4,1.0,2.0,4.0,2.0,never smoked,never,5.0,few hours a day,1.0,,right handed,yes
+138,5.0,3.0,1.0,1.0,1.0,1.0,1.0,2,2.0,1.0,4.0,3.0,never smoked,never,5.0,few hours a day,1.0,female,right handed,no
+139,5.0,5.0,4.0,4.0,4.0,4.0,3.0,5,5.0,4.0,5.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+140,5.0,5.0,2.0,2.0,2.0,5.0,2.0,4,3.0,2.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+141,3.0,5.0,1.0,2.0,4.0,5.0,1.0,3,1.0,5.0,3.0,1.0,current smoker,social drinker,3.0,few hours a day,5.0,female,right handed,yes
+142,5.0,1.0,3.0,3.0,1.0,4.0,4.0,4,4.0,4.0,5.0,3.0,never smoked,social drinker,2.0,most of the day,5.0,male,left handed,no
+143,5.0,5.0,2.0,3.0,4.0,5.0,5.0,5,5.0,4.0,2.0,4.0,former smoker,social drinker,3.0,most of the day,5.0,female,right handed,no
+144,5.0,3.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,2.0,5.0,never smoked,social drinker,1.0,few hours a day,2.0,male,right handed,no
+145,1.0,2.0,2.0,3.0,4.0,3.0,5.0,4,3.0,3.0,4.0,3.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+146,5.0,4.0,1.0,1.0,1.0,3.0,1.0,3,1.0,1.0,3.0,2.0,tried smoking,never,2.0,few hours a day,5.0,male,right handed,no
+147,5.0,3.0,1.0,1.0,1.0,2.0,2.0,2,2.0,3.0,3.0,4.0,never smoked,social drinker,4.0,most of the day,1.0,male,right handed,no
+148,4.0,1.0,1.0,2.0,2.0,3.0,2.0,3,2.0,2.0,4.0,3.0,never smoked,social drinker,4.0,few hours a day,4.0,male,right handed,no
+149,2.0,1.0,1.0,1.0,2.0,3.0,1.0,2,1.0,2.0,3.0,4.0,,never,3.0,few hours a day,1.0,male,right handed,no
+150,5.0,1.0,2.0,1.0,2.0,1.0,5.0,2,1.0,3.0,3.0,3.0,tried smoking,never,3.0,few hours a day,2.0,female,right handed,no
+151,5.0,3.0,3.0,2.0,1.0,4.0,3.0,3,4.0,2.0,2.0,4.0,tried smoking,never,3.0,few hours a day,4.0,male,right handed,no
+152,5.0,4.0,5.0,1.0,3.0,3.0,2.0,3,3.0,5.0,4.0,1.0,tried smoking,drink a lot,4.0,few hours a day,1.0,male,right handed,no
+153,2.0,1.0,1.0,3.0,2.0,3.0,5.0,4,4.0,4.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+154,5.0,3.0,1.0,1.0,2.0,2.0,5.0,3,2.0,3.0,1.0,3.0,former smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+155,5.0,4.0,1.0,1.0,5.0,1.0,2.0,1,5.0,3.0,1.0,3.0,tried smoking,social drinker,5.0,few hours a day,3.0,female,right handed,no
+156,5.0,4.0,1.0,1.0,1.0,5.0,1.0,1,1.0,1.0,5.0,2.0,never smoked,drink a lot,3.0,few hours a day,1.0,male,left handed,yes
+157,5.0,2.0,1.0,1.0,1.0,1.0,2.0,2,2.0,2.0,5.0,2.0,former smoker,social drinker,4.0,most of the day,3.0,male,right handed,no
+158,5.0,5.0,3.0,3.0,2.0,1.0,5.0,2,2.0,3.0,5.0,4.0,tried smoking,never,3.0,few hours a day,4.0,female,right handed,no
+159,5.0,5.0,2.0,2.0,3.0,4.0,2.0,2,3.0,2.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+160,5.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,social drinker,2.0,few hours a day,1.0,male,right handed,no
+161,5.0,5.0,1.0,2.0,1.0,1.0,4.0,1,1.0,5.0,1.0,3.0,current smoker,social drinker,3.0,few hours a day,2.0,female,left handed,yes
+162,4.0,2.0,1.0,1.0,1.0,2.0,2.0,5,3.0,1.0,3.0,2.0,tried smoking,social drinker,2.0,few hours a day,3.0,male,left handed,yes
+163,5.0,1.0,3.0,3.0,2.0,4.0,4.0,3,2.0,2.0,3.0,4.0,current smoker,social drinker,4.0,most of the day,3.0,male,right handed,no
+164,5.0,4.0,2.0,1.0,3.0,2.0,2.0,2,2.0,4.0,1.0,4.0,current smoker,social drinker,4.0,most of the day,3.0,male,right handed,no
+165,5.0,2.0,3.0,2.0,2.0,4.0,4.0,4,5.0,4.0,4.0,4.0,tried smoking,social drinker,5.0,few hours a day,4.0,female,right handed,yes
+166,5.0,1.0,1.0,1.0,2.0,2.0,4.0,1,1.0,3.0,2.0,1.0,former smoker,drink a lot,4.0,few hours a day,1.0,female,right handed,no
+167,3.0,4.0,3.0,3.0,4.0,4.0,4.0,4,3.0,3.0,4.0,4.0,current smoker,drink a lot,2.0,few hours a day,1.0,male,right handed,no
+168,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,2.0,1.0,tried smoking,social drinker,3.0,most of the day,5.0,female,right handed,yes
+169,5.0,4.0,1.0,2.0,1.0,1.0,5.0,3,1.0,1.0,1.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+170,4.0,4.0,2.0,2.0,4.0,3.0,3.0,5,4.0,3.0,3.0,2.0,never smoked,drink a lot,4.0,few hours a day,1.0,male,right handed,no
+171,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,1.0,tried smoking,social drinker,3.0,few hours a day,5.0,male,right handed,yes
+172,5.0,3.0,3.0,1.0,3.0,2.0,1.0,1,1.0,4.0,4.0,5.0,tried smoking,social drinker,4.0,most of the day,1.0,male,right handed,no
+173,5.0,5.0,1.0,1.0,2.0,3.0,2.0,4,3.0,2.0,1.0,4.0,never smoked,social drinker,4.0,most of the day,3.0,male,right handed,no
+174,5.0,3.0,1.0,5.0,5.0,5.0,5.0,5,5.0,5.0,5.0,,former smoker,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+175,5.0,5.0,2.0,1.0,4.0,1.0,3.0,5,1.0,4.0,2.0,3.0,never smoked,never,3.0,few hours a day,1.0,female,right handed,yes
+176,5.0,4.0,2.0,1.0,1.0,3.0,1.0,1,1.0,1.0,1.0,1.0,former smoker,social drinker,4.0,less than an hour a day,2.0,male,right handed,yes
+177,5.0,5.0,3.0,1.0,2.0,,1.0,2,3.0,5.0,1.0,3.0,tried smoking,never,3.0,few hours a day,3.0,male,right handed,no
+178,4.0,3.0,2.0,2.0,2.0,4.0,2.0,1,1.0,5.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+179,4.0,4.0,2.0,2.0,4.0,2.0,5.0,1,1.0,3.0,5.0,2.0,tried smoking,never,3.0,few hours a day,5.0,male,right handed,no
+180,4.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,current smoker,social drinker,2.0,few hours a day,5.0,male,right handed,yes
+181,5.0,2.0,1.0,1.0,1.0,1.0,1.0,2,3.0,2.0,2.0,2.0,never smoked,social drinker,4.0,few hours a day,2.0,male,right handed,yes
+182,5.0,5.0,2.0,3.0,2.0,1.0,5.0,4,2.0,1.0,2.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,yes
+183,5.0,5.0,2.0,2.0,2.0,2.0,3.0,1,2.0,1.0,1.0,1.0,tried smoking,drink a lot,2.0,few hours a day,3.0,male,right handed,no
+184,5.0,2.0,3.0,5.0,1.0,3.0,2.0,5,2.0,4.0,5.0,3.0,former smoker,drink a lot,3.0,few hours a day,4.0,female,right handed,yes
+185,3.0,5.0,1.0,5.0,1.0,1.0,3.0,5,3.0,3.0,4.0,2.0,never smoked,never,3.0,less than an hour a day,2.0,female,right handed,no
+186,4.0,4.0,2.0,3.0,3.0,2.0,5.0,5,5.0,4.0,4.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+187,5.0,2.0,2.0,1.0,1.0,1.0,1.0,1,1.0,1.0,4.0,3.0,never smoked,social drinker,3.0,few hours a day,1.0,female,right handed,no
+188,3.0,,3.0,3.0,4.0,1.0,2.0,5,5.0,,5.0,4.0,never smoked,social drinker,4.0,less than an hour a day,5.0,female,left handed,no
+189,5.0,1.0,1.0,1.0,2.0,2.0,3.0,3,2.0,2.0,2.0,5.0,never smoked,social drinker,3.0,few hours a day,2.0,female,right handed,no
+190,4.0,2.0,2.0,2.0,2.0,2.0,5.0,1,2.0,3.0,2.0,3.0,never smoked,social drinker,4.0,few hours a day,4.0,female,left handed,no
+191,5.0,2.0,3.0,2.0,2.0,2.0,1.0,3,3.0,3.0,5.0,1.0,former smoker,social drinker,5.0,less than an hour a day,1.0,female,right handed,no
+192,5.0,5.0,2.0,1.0,2.0,1.0,5.0,1,1.0,4.0,1.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+193,5.0,5.0,3.0,1.0,2.0,2.0,1.0,2,4.0,3.0,1.0,3.0,tried smoking,never,3.0,few hours a day,4.0,male,right handed,no
+194,5.0,1.0,2.0,1.0,1.0,2.0,3.0,3,4.0,2.0,3.0,1.0,current smoker,drink a lot,4.0,few hours a day,3.0,male,right handed,no
+195,5.0,1.0,1.0,2.0,3.0,4.0,5.0,5,1.0,3.0,5.0,3.0,current smoker,never,3.0,few hours a day,4.0,male,right handed,yes
+196,5.0,1.0,2.0,2.0,3.0,2.0,4.0,5,4.0,2.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,yes
+197,5.0,4.0,1.0,4.0,4.0,2.0,4.0,4,4.0,2.0,4.0,4.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+198,5.0,4.0,1.0,5.0,5.0,5.0,5.0,5,5.0,3.0,5.0,4.0,current smoker,drink a lot,2.0,few hours a day,4.0,male,right handed,no
+199,5.0,3.0,3.0,1.0,2.0,2.0,2.0,4,3.0,3.0,3.0,3.0,former smoker,social drinker,2.0,less than an hour a day,5.0,male,right handed,no
+200,4.0,5.0,3.0,1.0,2.0,3.0,1.0,2,1.0,1.0,3.0,4.0,tried smoking,social drinker,2.0,most of the day,3.0,male,right handed,no
+201,5.0,5.0,4.0,3.0,3.0,3.0,1.0,5,1.0,3.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,3.0,,right handed,yes
+202,5.0,4.0,1.0,1.0,2.0,2.0,4.0,4,3.0,2.0,3.0,1.0,never smoked,never,2.0,few hours a day,5.0,male,right handed,yes
+203,5.0,3.0,1.0,1.0,1.0,4.0,2.0,2,2.0,4.0,4.0,5.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+204,5.0,3.0,2.0,1.0,1.0,1.0,4.0,3,1.0,2.0,3.0,4.0,never smoked,drink a lot,3.0,few hours a day,1.0,female,right handed,no
+205,5.0,2.0,3.0,2.0,4.0,5.0,1.0,1,1.0,1.0,3.0,4.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+206,5.0,3.0,3.0,2.0,1.0,2.0,3.0,3,3.0,2.0,2.0,1.0,tried smoking,drink a lot,2.0,few hours a day,1.0,male,left handed,no
+207,5.0,5.0,2.0,3.0,3.0,2.0,5.0,3,3.0,1.0,2.0,3.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+208,5.0,5.0,1.0,5.0,5.0,2.0,5.0,4,4.0,4.0,1.0,2.0,current smoker,social drinker,3.0,less than an hour a day,2.0,female,right handed,no
+209,5.0,3.0,4.0,3.0,1.0,4.0,5.0,4,2.0,1.0,4.0,5.0,never smoked,social drinker,2.0,few hours a day,3.0,male,right handed,no
+210,5.0,5.0,4.0,4.0,5.0,5.0,5.0,4,5.0,5.0,4.0,5.0,tried smoking,social drinker,5.0,few hours a day,5.0,male,right handed,no
+211,5.0,4.0,1.0,2.0,2.0,5.0,5.0,5,5.0,5.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+212,5.0,1.0,1.0,1.0,1.0,2.0,4.0,4,2.0,1.0,3.0,3.0,tried smoking,drink a lot,3.0,most of the day,3.0,male,right handed,no
+213,5.0,4.0,2.0,2.0,1.0,2.0,3.0,4,1.0,1.0,5.0,3.0,never smoked,social drinker,4.0,few hours a day,4.0,female,right handed,no
+214,4.0,3.0,3.0,2.0,2.0,3.0,5.0,4,3.0,3.0,3.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+215,1.0,1.0,3.0,1.0,1.0,1.0,1.0,1,1.0,5.0,3.0,1.0,former smoker,social drinker,3.0,few hours a day,5.0,male,right handed,no
+216,5.0,1.0,1.0,1.0,1.0,3.0,4.0,1,1.0,3.0,5.0,1.0,current smoker,drink a lot,3.0,few hours a day,5.0,female,right handed,yes
+217,5.0,5.0,3.0,3.0,2.0,4.0,5.0,3,3.0,3.0,1.0,1.0,never smoked,social drinker,1.0,few hours a day,3.0,female,right handed,no
+218,5.0,5.0,1.0,1.0,1.0,3.0,1.0,1,2.0,4.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,no
+219,5.0,,1.0,1.0,1.0,3.0,1.0,1,1.0,3.0,2.0,1.0,current smoker,social drinker,5.0,less than an hour a day,5.0,male,right handed,no
+220,5.0,5.0,1.0,3.0,2.0,2.0,2.0,3,2.0,1.0,4.0,3.0,tried smoking,drink a lot,4.0,few hours a day,2.0,male,right handed,no
+221,5.0,4.0,1.0,2.0,1.0,1.0,2.0,2,1.0,1.0,3.0,3.0,current smoker,drink a lot,2.0,few hours a day,1.0,male,right handed,no
+222,5.0,1.0,1.0,2.0,1.0,2.0,2.0,4,2.0,3.0,5.0,5.0,never smoked,social drinker,4.0,few hours a day,2.0,female,right handed,no
+223,5.0,5.0,4.0,2.0,1.0,3.0,1.0,3,1.0,5.0,5.0,2.0,tried smoking,social drinker,2.0,few hours a day,5.0,female,right handed,yes
+224,5.0,1.0,3.0,1.0,2.0,1.0,1.0,3,1.0,2.0,4.0,3.0,tried smoking,social drinker,2.0,few hours a day,1.0,male,right handed,no
+225,5.0,3.0,1.0,2.0,2.0,2.0,4.0,4,2.0,1.0,4.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+226,5.0,5.0,5.0,5.0,3.0,5.0,1.0,2,3.0,5.0,3.0,5.0,tried smoking,social drinker,4.0,few hours a day,3.0,,right handed,no
+227,5.0,3.0,1.0,1.0,1.0,2.0,1.0,1,1.0,3.0,1.0,3.0,former smoker,social drinker,2.0,few hours a day,3.0,female,right handed,no
+228,4.0,5.0,3.0,3.0,3.0,4.0,1.0,2,1.0,3.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+229,4.0,1.0,1.0,1.0,1.0,1.0,1.0,2,1.0,3.0,2.0,2.0,tried smoking,social drinker,4.0,few hours a day,2.0,male,right handed,no
+230,5.0,4.0,2.0,3.0,3.0,2.0,5.0,5,2.0,3.0,4.0,2.0,tried smoking,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+231,5.0,5.0,3.0,2.0,1.0,2.0,1.0,4,3.0,3.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,yes
+232,5.0,1.0,1.0,1.0,2.0,1.0,2.0,3,3.0,5.0,5.0,5.0,never smoked,social drinker,3.0,few hours a day,1.0,female,right handed,no
+233,4.0,5.0,2.0,1.0,,4.0,4.0,2,1.0,5.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+234,4.0,5.0,2.0,1.0,3.0,1.0,4.0,4,4.0,1.0,5.0,4.0,never smoked,social drinker,4.0,few hours a day,2.0,female,right handed,no
+235,5.0,3.0,1.0,1.0,2.0,1.0,2.0,5,3.0,1.0,1.0,2.0,tried smoking,never,3.0,few hours a day,3.0,female,right handed,yes
+236,1.0,5.0,1.0,3.0,4.0,5.0,1.0,1,1.0,5.0,5.0,1.0,tried smoking,drink a lot,4.0,less than an hour a day,5.0,female,right handed,yes
+237,5.0,5.0,1.0,1.0,5.0,1.0,5.0,1,4.0,3.0,3.0,5.0,former smoker,social drinker,2.0,few hours a day,3.0,female,right handed,no
+238,5.0,3.0,3.0,1.0,2.0,2.0,4.0,2,2.0,2.0,4.0,2.0,former smoker,drink a lot,2.0,few hours a day,4.0,female,right handed,no
+239,5.0,4.0,5.0,4.0,3.0,4.0,5.0,5,3.0,5.0,3.0,4.0,former smoker,social drinker,3.0,less than an hour a day,4.0,female,left handed,yes
+240,3.0,3.0,2.0,3.0,2.0,3.0,3.0,3,3.0,5.0,3.0,2.0,former smoker,never,2.0,few hours a day,4.0,male,right handed,no
+241,5.0,5.0,2.0,4.0,5.0,2.0,5.0,5,5.0,3.0,4.0,4.0,tried smoking,social drinker,5.0,few hours a day,4.0,female,right handed,yes
+242,3.0,2.0,2.0,2.0,2.0,4.0,,3,3.0,2.0,5.0,1.0,never smoked,never,4.0,less than an hour a day,3.0,female,right handed,yes
+243,,1.0,3.0,1.0,2.0,4.0,1.0,2,2.0,1.0,5.0,4.0,never smoked,social drinker,4.0,few hours a day,2.0,female,right handed,yes
+244,5.0,5.0,5.0,3.0,3.0,2.0,5.0,4,5.0,3.0,5.0,4.0,tried smoking,social drinker,3.0,most of the day,1.0,female,right handed,yes
+245,5.0,5.0,2.0,2.0,1.0,4.0,1.0,5,1.0,5.0,5.0,2.0,tried smoking,social drinker,3.0,less than an hour a day,4.0,female,right handed,no
+246,5.0,5.0,1.0,1.0,1.0,1.0,4.0,4,4.0,5.0,4.0,1.0,tried smoking,never,3.0,few hours a day,5.0,male,right handed,yes
+247,5.0,1.0,1.0,2.0,4.0,4.0,2.0,2,1.0,5.0,1.0,3.0,former smoker,drink a lot,3.0,few hours a day,1.0,female,right handed,yes
+248,5.0,3.0,1.0,1.0,3.0,1.0,3.0,3,3.0,4.0,4.0,4.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,no
+249,5.0,5.0,3.0,1.0,1.0,1.0,5.0,2,2.0,3.0,3.0,5.0,never smoked,social drinker,4.0,no time at all,3.0,female,right handed,no
+250,5.0,1.0,3.0,5.0,4.0,2.0,1.0,1,2.0,3.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+251,5.0,5.0,3.0,3.0,1.0,5.0,1.0,3,2.0,2.0,5.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+252,5.0,5.0,5.0,3.0,3.0,2.0,4.0,1,3.0,3.0,3.0,2.0,never smoked,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+253,5.0,1.0,3.0,2.0,1.0,3.0,3.0,1,2.0,1.0,2.0,2.0,tried smoking,social drinker,2.0,few hours a day,1.0,female,left handed,yes
+254,5.0,5.0,1.0,1.0,1.0,2.0,5.0,4,3.0,1.0,1.0,1.0,current smoker,social drinker,3.0,few hours a day,1.0,female,right handed,no
+255,5.0,3.0,1.0,2.0,1.0,4.0,3.0,2,1.0,1.0,5.0,3.0,never smoked,social drinker,4.0,few hours a day,1.0,female,right handed,no
+256,5.0,1.0,1.0,3.0,3.0,1.0,5.0,5,3.0,5.0,5.0,3.0,current smoker,social drinker,3.0,few hours a day,5.0,female,right handed,no
+257,5.0,1.0,3.0,1.0,1.0,4.0,2.0,5,2.0,3.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+258,5.0,2.0,1.0,1.0,4.0,4.0,1.0,3,3.0,2.0,1.0,5.0,tried smoking,social drinker,2.0,most of the day,1.0,female,right handed,yes
+259,2.0,1.0,1.0,1.0,1.0,3.0,1.0,1,1.0,1.0,5.0,1.0,current smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+260,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3,3.0,3.0,3.0,3.0,tried smoking,never,3.0,few hours a day,3.0,male,right handed,yes
+261,5.0,5.0,2.0,1.0,3.0,3.0,3.0,3,2.0,5.0,4.0,3.0,never smoked,social drinker,3.0,few hours a day,4.0,female,right handed,no
+262,5.0,3.0,3.0,2.0,1.0,2.0,4.0,5,3.0,1.0,4.0,4.0,former smoker,social drinker,4.0,few hours a day,2.0,female,right handed,no
+263,5.0,3.0,1.0,1.0,4.0,2.0,4.0,1,4.0,1.0,2.0,1.0,current smoker,drink a lot,3.0,few hours a day,3.0,female,right handed,no
+264,3.0,5.0,3.0,,1.0,3.0,4.0,1,3.0,3.0,3.0,5.0,former smoker,social drinker,3.0,few hours a day,1.0,female,right handed,no
+265,5.0,5.0,1.0,2.0,3.0,1.0,4.0,3,1.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,most of the day,3.0,female,right handed,no
+266,5.0,4.0,1.0,5.0,4.0,1.0,3.0,3,2.0,1.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,no
+267,5.0,5.0,1.0,1.0,1.0,3.0,1.0,2,1.0,1.0,1.0,1.0,never smoked,never,2.0,few hours a day,3.0,female,left handed,no
+268,5.0,5.0,1.0,2.0,4.0,2.0,5.0,4,2.0,5.0,4.0,3.0,never smoked,never,3.0,few hours a day,3.0,female,right handed,no
+269,5.0,3.0,1.0,1.0,1.0,1.0,2.0,2,2.0,2.0,4.0,3.0,tried smoking,social drinker,2.0,few hours a day,1.0,female,right handed,no
+270,5.0,5.0,2.0,4.0,4.0,5.0,5.0,5,4.0,5.0,5.0,4.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+271,5.0,5.0,3.0,3.0,3.0,1.0,2.0,4,2.0,4.0,4.0,4.0,never smoked,social drinker,3.0,less than an hour a day,4.0,male,right handed,yes
+272,5.0,5.0,1.0,1.0,3.0,2.0,2.0,1,2.0,5.0,2.0,4.0,former smoker,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+273,5.0,1.0,2.0,2.0,3.0,1.0,4.0,5,5.0,3.0,2.0,2.0,former smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+274,5.0,4.0,1.0,3.0,5.0,5.0,4.0,4,5.0,5.0,5.0,2.0,current smoker,social drinker,2.0,few hours a day,1.0,female,right handed,yes
+275,5.0,2.0,1.0,1.0,3.0,5.0,4.0,1,1.0,3.0,2.0,2.0,former smoker,drink a lot,2.0,few hours a day,3.0,female,right handed,no
+276,5.0,1.0,1.0,1.0,1.0,1.0,3.0,4,2.0,1.0,5.0,2.0,tried smoking,never,3.0,few hours a day,3.0,female,right handed,no
+277,5.0,1.0,2.0,1.0,1.0,2.0,5.0,2,2.0,1.0,1.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+278,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,3.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,no
+279,5.0,5.0,4.0,2.0,4.0,5.0,2.0,4,3.0,5.0,4.0,1.0,current smoker,social drinker,3.0,few hours a day,5.0,female,right handed,no
+280,5.0,4.0,3.0,2.0,3.0,1.0,5.0,1,1.0,1.0,1.0,1.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+281,5.0,5.0,1.0,1.0,2.0,5.0,2.0,1,1.0,3.0,4.0,3.0,former smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+282,5.0,5.0,3.0,4.0,3.0,3.0,5.0,5,5.0,3.0,2.0,5.0,tried smoking,never,3.0,less than an hour a day,3.0,female,right handed,no
+283,5.0,1.0,1.0,4.0,1.0,2.0,1.0,5,1.0,1.0,2.0,2.0,never smoked,social drinker,3.0,few hours a day,5.0,male,right handed,no
+284,1.0,4.0,1.0,1.0,1.0,4.0,3.0,3,1.0,1.0,3.0,3.0,never smoked,social drinker,3.0,most of the day,4.0,male,right handed,no
+285,5.0,5.0,1.0,2.0,2.0,2.0,5.0,3,3.0,3.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+286,5.0,5.0,5.0,5.0,3.0,3.0,4.0,5,4.0,3.0,3.0,3.0,former smoker,social drinker,1.0,few hours a day,4.0,female,right handed,no
+287,5.0,4.0,2.0,2.0,3.0,3.0,5.0,5,2.0,4.0,3.0,3.0,former smoker,social drinker,3.0,few hours a day,4.0,female,right handed,yes
+288,5.0,3.0,1.0,4.0,1.0,2.0,3.0,3,2.0,2.0,1.0,1.0,tried smoking,never,3.0,few hours a day,3.0,male,left handed,no
+289,5.0,4.0,1.0,1.0,2.0,2.0,1.0,1,1.0,1.0,1.0,2.0,current smoker,drink a lot,2.0,most of the day,4.0,male,right handed,yes
+290,4.0,2.0,1.0,1.0,1.0,1.0,1.0,1,3.0,4.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+291,4.0,3.0,1.0,1.0,1.0,1.0,2.0,2,1.0,2.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+292,5.0,5.0,2.0,2.0,1.0,1.0,4.0,4,4.0,4.0,4.0,1.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+293,5.0,5.0,1.0,1.0,4.0,1.0,2.0,2,2.0,3.0,4.0,5.0,tried smoking,never,1.0,few hours a day,1.0,female,right handed,yes
+294,5.0,5.0,1.0,1.0,3.0,1.0,5.0,2,2.0,2.0,3.0,4.0,former smoker,never,2.0,less than an hour a day,3.0,female,right handed,no
+295,5.0,5.0,4.0,2.0,3.0,4.0,3.0,5,4.0,4.0,5.0,4.0,tried smoking,drink a lot,4.0,few hours a day,3.0,female,right handed,no
+296,5.0,4.0,1.0,1.0,1.0,2.0,1.0,1,1.0,3.0,1.0,1.0,former smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+297,5.0,3.0,1.0,1.0,2.0,2.0,1.0,1,1.0,2.0,2.0,3.0,former smoker,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+298,5.0,5.0,1.0,2.0,5.0,5.0,3.0,5,3.0,4.0,4.0,5.0,tried smoking,drink a lot,3.0,less than an hour a day,3.0,female,right handed,no
+299,5.0,4.0,3.0,2.0,4.0,3.0,5.0,5,5.0,5.0,3.0,5.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+300,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,2.0,tried smoking,social drinker,3.0,most of the day,5.0,female,right handed,no
+301,4.0,3.0,2.0,1.0,1.0,2.0,1.0,1,1.0,1.0,2.0,3.0,never smoked,social drinker,4.0,few hours a day,4.0,male,right handed,no
+302,5.0,1.0,3.0,5.0,3.0,1.0,1.0,5,5.0,5.0,5.0,4.0,tried smoking,social drinker,4.0,less than an hour a day,1.0,female,right handed,no
+303,4.0,5.0,5.0,1.0,1.0,2.0,4.0,4,4.0,2.0,3.0,1.0,never smoked,social drinker,4.0,few hours a day,2.0,female,right handed,no
+304,5.0,1.0,1.0,1.0,2.0,3.0,3.0,3,1.0,4.0,2.0,1.0,current smoker,social drinker,1.0,few hours a day,3.0,female,right handed,yes
+305,5.0,5.0,5.0,4.0,3.0,5.0,2.0,5,1.0,3.0,4.0,3.0,current smoker,social drinker,3.0,few hours a day,4.0,female,right handed,yes
+306,5.0,5.0,3.0,3.0,2.0,5.0,5.0,2,3.0,1.0,5.0,4.0,never smoked,social drinker,4.0,few hours a day,4.0,female,right handed,no
+307,5.0,1.0,1.0,5.0,2.0,1.0,5.0,4,1.0,1.0,4.0,4.0,never smoked,never,4.0,few hours a day,1.0,female,right handed,no
+308,5.0,3.0,3.0,3.0,3.0,4.0,3.0,4,5.0,5.0,3.0,2.0,tried smoking,never,4.0,few hours a day,4.0,female,right handed,yes
+309,5.0,1.0,1.0,1.0,2.0,1.0,1.0,1,1.0,2.0,2.0,3.0,never smoked,never,3.0,few hours a day,3.0,female,right handed,yes
+310,5.0,5.0,3.0,1.0,2.0,1.0,3.0,3,1.0,1.0,1.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,no
+311,5.0,2.0,1.0,1.0,1.0,1.0,5.0,1,1.0,3.0,1.0,2.0,former smoker,social drinker,4.0,few hours a day,1.0,female,right handed,yes
+312,2.0,3.0,3.0,1.0,2.0,3.0,2.0,2,1.0,1.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,5.0,male,right handed,no
+313,5.0,3.0,3.0,2.0,1.0,1.0,5.0,5,5.0,1.0,3.0,3.0,current smoker,social drinker,4.0,few hours a day,2.0,female,right handed,no
+314,5.0,5.0,2.0,1.0,1.0,3.0,2.0,3,3.0,3.0,5.0,2.0,never smoked,never,4.0,few hours a day,3.0,male,right handed,no
+315,5.0,1.0,1.0,1.0,1.0,1.0,5.0,5,5.0,3.0,4.0,4.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,left handed,no
+316,5.0,5.0,1.0,3.0,3.0,2.0,3.0,3,2.0,3.0,3.0,3.0,former smoker,social drinker,3.0,less than an hour a day,5.0,female,right handed,yes
+317,5.0,5.0,5.0,1.0,1.0,1.0,1.0,1,1.0,1.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,no
+318,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5,5.0,3.0,5.0,3.0,never smoked,social drinker,3.0,less than an hour a day,3.0,female,right handed,yes
+319,5.0,3.0,2.0,1.0,2.0,4.0,5.0,5,4.0,1.0,4.0,5.0,former smoker,social drinker,5.0,few hours a day,4.0,female,left handed,no
+320,5.0,3.0,1.0,2.0,2.0,2.0,1.0,4,1.0,2.0,1.0,5.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,no
+321,5.0,5.0,3.0,3.0,3.0,3.0,5.0,5,3.0,3.0,5.0,2.0,never smoked,never,4.0,few hours a day,2.0,female,right handed,yes
+322,5.0,5.0,3.0,3.0,3.0,2.0,2.0,5,2.0,4.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+323,5.0,5.0,1.0,1.0,3.0,2.0,4.0,4,1.0,2.0,5.0,4.0,never smoked,social drinker,3.0,few hours a day,2.0,male,left handed,no
+324,5.0,3.0,3.0,2.0,2.0,1.0,2.0,3,4.0,3.0,4.0,5.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+325,5.0,5.0,1.0,1.0,2.0,2.0,2.0,1,1.0,2.0,3.0,4.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,male,right handed,no
+326,5.0,4.0,2.0,4.0,2.0,2.0,1.0,1,1.0,1.0,3.0,2.0,never smoked,social drinker,4.0,few hours a day,5.0,female,right handed,yes
+327,5.0,5.0,5.0,4.0,2.0,4.0,5.0,5,3.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,no
+328,5.0,1.0,5.0,1.0,1.0,4.0,1.0,3,1.0,3.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,5.0,male,right handed,yes
+329,5.0,4.0,3.0,2.0,2.0,2.0,2.0,3,3.0,4.0,4.0,3.0,never smoked,drink a lot,3.0,few hours a day,4.0,female,right handed,no
+330,5.0,5.0,3.0,5.0,4.0,3.0,5.0,3,,4.0,4.0,5.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,yes
+331,5.0,5.0,1.0,1.0,2.0,1.0,3.0,3,1.0,1.0,1.0,2.0,former smoker,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+332,4.0,5.0,5.0,5.0,4.0,3.0,3.0,4,2.0,5.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+333,5.0,5.0,3.0,1.0,1.0,4.0,3.0,3,3.0,1.0,3.0,2.0,never smoked,never,5.0,few hours a day,3.0,female,right handed,yes
+334,5.0,2.0,3.0,2.0,1.0,1.0,4.0,1,1.0,4.0,4.0,3.0,never smoked,never,4.0,few hours a day,2.0,female,right handed,no
+335,5.0,3.0,1.0,1.0,1.0,3.0,1.0,2,1.0,1.0,2.0,2.0,tried smoking,social drinker,2.0,few hours a day,2.0,male,right handed,no
+336,5.0,4.0,4.0,1.0,1.0,4.0,5.0,5,4.0,1.0,5.0,3.0,never smoked,never,4.0,few hours a day,3.0,male,left handed,no
+337,5.0,5.0,3.0,1.0,1.0,4.0,3.0,1,1.0,1.0,1.0,2.0,tried smoking,drink a lot,1.0,few hours a day,3.0,male,right handed,no
+338,5.0,1.0,3.0,5.0,5.0,4.0,2.0,5,3.0,5.0,4.0,5.0,never smoked,social drinker,3.0,few hours a day,4.0,female,left handed,no
+339,5.0,5.0,3.0,4.0,3.0,2.0,2.0,5,2.0,4.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+340,5.0,1.0,1.0,4.0,4.0,4.0,5.0,4,1.0,3.0,5.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,no
+341,5.0,2.0,1.0,4.0,4.0,1.0,5.0,5,5.0,5.0,5.0,2.0,former smoker,social drinker,2.0,most of the day,5.0,male,right handed,no
+342,5.0,5.0,2.0,2.0,3.0,2.0,5.0,2,2.0,4.0,1.0,3.0,tried smoking,social drinker,4.0,most of the day,2.0,female,right handed,yes
+343,5.0,5.0,3.0,4.0,4.0,3.0,3.0,3,1.0,3.0,2.0,4.0,tried smoking,social drinker,4.0,less than an hour a day,3.0,female,right handed,no
+344,5.0,1.0,5.0,4.0,3.0,5.0,3.0,5,5.0,1.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+345,4.0,4.0,2.0,2.0,3.0,3.0,1.0,5,4.0,2.0,4.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,2.0,female,right handed,yes
+346,5.0,5.0,1.0,2.0,2.0,1.0,1.0,3,3.0,1.0,4.0,1.0,current smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,yes
+347,5.0,1.0,5.0,2.0,2.0,2.0,2.0,4,4.0,4.0,4.0,5.0,tried smoking,drink a lot,3.0,most of the day,5.0,male,left handed,no
+348,5.0,4.0,1.0,1.0,2.0,1.0,5.0,3,2.0,4.0,2.0,1.0,never smoked,never,3.0,few hours a day,2.0,male,right handed,no
+349,5.0,5.0,1.0,5.0,4.0,1.0,5.0,2,3.0,3.0,5.0,2.0,never smoked,social drinker,4.0,few hours a day,5.0,female,right handed,no
+350,2.0,3.0,1.0,1.0,1.0,3.0,1.0,1,1.0,2.0,3.0,3.0,tried smoking,social drinker,3.0,most of the day,4.0,male,right handed,no
+351,5.0,5.0,1.0,2.0,4.0,2.0,5.0,5,2.0,2.0,3.0,4.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,no
+352,5.0,2.0,3.0,3.0,3.0,3.0,3.0,1,1.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+353,5.0,3.0,2.0,1.0,3.0,2.0,3.0,3,2.0,2.0,3.0,3.0,former smoker,social drinker,4.0,few hours a day,4.0,female,right handed,no
+354,5.0,4.0,1.0,1.0,3.0,3.0,3.0,5,5.0,3.0,4.0,2.0,former smoker,social drinker,5.0,few hours a day,5.0,female,right handed,no
+355,5.0,1.0,1.0,1.0,1.0,1.0,5.0,4,2.0,1.0,3.0,1.0,former smoker,drink a lot,5.0,few hours a day,4.0,male,right handed,no
+356,4.0,3.0,1.0,1.0,1.0,4.0,1.0,1,3.0,2.0,4.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,left handed,no
+357,5.0,5.0,1.0,1.0,1.0,5.0,5.0,1,1.0,3.0,1.0,2.0,never smoked,never,4.0,few hours a day,1.0,male,right handed,yes
+358,4.0,5.0,3.0,1.0,3.0,5.0,4.0,3,1.0,3.0,5.0,4.0,current smoker,social drinker,4.0,less than an hour a day,2.0,male,right handed,no
+359,5.0,5.0,5.0,1.0,3.0,3.0,5.0,5,2.0,3.0,2.0,4.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+360,5.0,2.0,4.0,1.0,2.0,3.0,2.0,5,1.0,5.0,5.0,5.0,never smoked,social drinker,4.0,few hours a day,4.0,female,right handed,no
+361,5.0,5.0,2.0,2.0,4.0,1.0,1.0,2,4.0,5.0,3.0,1.0,tried smoking,social drinker,3.0,less than an hour a day,1.0,female,right handed,no
+362,5.0,3.0,1.0,1.0,1.0,4.0,5.0,5,1.0,2.0,2.0,4.0,never smoked,social drinker,4.0,few hours a day,1.0,female,right handed,no
+363,5.0,3.0,1.0,1.0,1.0,2.0,5.0,5,1.0,2.0,2.0,4.0,never smoked,social drinker,4.0,few hours a day,1.0,female,right handed,no
+364,2.0,1.0,1.0,2.0,2.0,2.0,4.0,4,3.0,1.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,no
+365,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,1.0,never smoked,social drinker,3.0,few hours a day,3.0,male,right handed,no
+366,5.0,1.0,3.0,2.0,2.0,3.0,1.0,1,1.0,1.0,3.0,3.0,tried smoking,social drinker,5.0,most of the day,4.0,male,right handed,no
+367,5.0,3.0,3.0,1.0,1.0,2.0,1.0,3,1.0,5.0,4.0,3.0,never smoked,social drinker,4.0,few hours a day,3.0,male,right handed,no
+368,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,1.0,5.0,current smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+369,5.0,5.0,1.0,1.0,1.0,2.0,2.0,2,1.0,5.0,3.0,3.0,tried smoking,never,3.0,less than an hour a day,2.0,male,left handed,no
+370,5.0,5.0,3.0,5.0,5.0,4.0,5.0,5,4.0,2.0,5.0,3.0,never smoked,social drinker,3.0,few hours a day,5.0,female,right handed,no
+371,5.0,3.0,2.0,4.0,1.0,3.0,2.0,3,2.0,1.0,5.0,1.0,never smoked,social drinker,3.0,few hours a day,2.0,female,right handed,no
+372,4.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,3.0,2.0,tried smoking,social drinker,2.0,most of the day,3.0,male,right handed,no
+373,5.0,1.0,1.0,1.0,1.0,2.0,2.0,5,3.0,1.0,2.0,3.0,never smoked,drink a lot,3.0,most of the day,3.0,male,left handed,yes
+374,5.0,5.0,3.0,3.0,3.0,5.0,5.0,5,5.0,4.0,3.0,5.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,no
+375,5.0,1.0,3.0,2.0,2.0,3.0,5.0,4,3.0,5.0,5.0,5.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+376,5.0,5.0,3.0,4.0,5.0,4.0,5.0,2,2.0,1.0,2.0,3.0,former smoker,social drinker,4.0,few hours a day,2.0,female,right handed,no
+377,5.0,4.0,3.0,2.0,2.0,1.0,1.0,1,1.0,1.0,4.0,4.0,never smoked,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+378,5.0,5.0,2.0,4.0,5.0,3.0,2.0,1,1.0,5.0,1.0,1.0,tried smoking,drink a lot,4.0,few hours a day,2.0,female,right handed,no
+379,5.0,3.0,2.0,1.0,2.0,2.0,2.0,3,3.0,2.0,2.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,no
+380,5.0,4.0,2.0,2.0,1.0,2.0,2.0,5,1.0,2.0,2.0,3.0,tried smoking,social drinker,3.0,most of the day,3.0,female,left handed,no
+381,5.0,5.0,1.0,2.0,2.0,2.0,2.0,2,2.0,3.0,4.0,3.0,tried smoking,drink a lot,3.0,few hours a day,5.0,female,right handed,no
+382,5.0,5.0,3.0,5.0,5.0,5.0,5.0,5,5.0,5.0,5.0,4.0,current smoker,social drinker,4.0,few hours a day,4.0,female,right handed,yes
+383,5.0,1.0,2.0,1.0,1.0,3.0,2.0,4,2.0,3.0,4.0,3.0,current smoker,drink a lot,3.0,most of the day,4.0,male,right handed,no
+384,5.0,1.0,2.0,4.0,2.0,2.0,5.0,5,3.0,3.0,4.0,5.0,former smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+385,5.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1.0,4.0,3.0,2.0,current smoker,drink a lot,2.0,few hours a day,4.0,male,right handed,no
+386,5.0,2.0,1.0,1.0,3.0,3.0,2.0,1,1.0,2.0,4.0,4.0,tried smoking,drink a lot,3.0,few hours a day,1.0,female,right handed,yes
+387,5.0,5.0,1.0,1.0,2.0,2.0,1.0,2,5.0,3.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,5.0,female,right handed,no
+388,5.0,5.0,2.0,2.0,1.0,4.0,5.0,5,5.0,2.0,4.0,2.0,former smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+389,5.0,3.0,1.0,3.0,5.0,5.0,2.0,5,4.0,1.0,2.0,3.0,tried smoking,social drinker,5.0,few hours a day,4.0,female,right handed,yes
+390,4.0,2.0,2.0,2.0,2.0,3.0,2.0,3,1.0,1.0,2.0,2.0,never smoked,social drinker,4.0,few hours a day,3.0,male,right handed,no
+391,4.0,2.0,3.0,3.0,3.0,3.0,3.0,3,3.0,2.0,4.0,5.0,never smoked,social drinker,4.0,few hours a day,1.0,female,right handed,no
+392,5.0,1.0,3.0,4.0,3.0,2.0,3.0,5,4.0,2.0,4.0,4.0,tried smoking,social drinker,3.0,less than an hour a day,2.0,female,right handed,no
+393,5.0,3.0,1.0,1.0,1.0,3.0,1.0,1,1.0,2.0,1.0,1.0,former smoker,never,3.0,few hours a day,3.0,male,right handed,no
+394,5.0,3.0,4.0,4.0,5.0,5.0,5.0,2,4.0,5.0,4.0,2.0,never smoked,social drinker,1.0,few hours a day,4.0,male,right handed,no
+395,5.0,1.0,1.0,1.0,1.0,2.0,1.0,3,1.0,1.0,1.0,3.0,never smoked,social drinker,2.0,few hours a day,4.0,male,right handed,no
+396,5.0,1.0,2.0,2.0,1.0,2.0,4.0,4,1.0,1.0,1.0,2.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+397,5.0,5.0,5.0,3.0,2.0,5.0,2.0,4,5.0,3.0,4.0,3.0,current smoker,never,4.0,most of the day,1.0,female,right handed,no
+398,5.0,1.0,1.0,2.0,2.0,3.0,3.0,5,4.0,1.0,5.0,1.0,current smoker,social drinker,5.0,few hours a day,3.0,female,right handed,no
+399,5.0,5.0,2.0,2.0,1.0,4.0,1.0,2,2.0,1.0,4.0,1.0,former smoker,social drinker,2.0,less than an hour a day,3.0,female,right handed,no
+400,5.0,1.0,1.0,1.0,1.0,1.0,2.0,2,2.0,2.0,4.0,2.0,tried smoking,social drinker,3.0,most of the day,3.0,male,left handed,no
+401,5.0,1.0,1.0,2.0,3.0,4.0,1.0,1,1.0,1.0,2.0,1.0,tried smoking,drink a lot,4.0,few hours a day,3.0,female,right handed,no
+402,5.0,5.0,1.0,1.0,1.0,4.0,1.0,3,5.0,1.0,5.0,3.0,tried smoking,social drinker,4.0,most of the day,1.0,male,right handed,no
+403,2.0,4.0,4.0,1.0,1.0,1.0,1.0,1,2.0,1.0,2.0,4.0,former smoker,social drinker,3.0,less than an hour a day,1.0,male,right handed,no
+404,5.0,5.0,1.0,1.0,1.0,2.0,2.0,2,2.0,3.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,no
+405,4.0,3.0,1.0,2.0,2.0,5.0,3.0,4,3.0,2.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,left handed,no
+406,5.0,1.0,4.0,5.0,4.0,3.0,1.0,5,3.0,3.0,5.0,4.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,female,left handed,no
+407,5.0,5.0,1.0,1.0,1.0,2.0,4.0,4,5.0,3.0,5.0,2.0,current smoker,drink a lot,3.0,less than an hour a day,3.0,female,left handed,no
+408,5.0,1.0,5.0,3.0,5.0,1.0,3.0,5,5.0,4.0,5.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+409,5.0,3.0,2.0,3.0,5.0,5.0,5.0,3,1.0,1.0,1.0,1.0,never smoked,never,2.0,few hours a day,4.0,female,right handed,yes
+410,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,current smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+411,5.0,3.0,4.0,3.0,4.0,3.0,5.0,5,3.0,2.0,2.0,1.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+412,5.0,5.0,1.0,1.0,1.0,5.0,1.0,1,5.0,1.0,3.0,1.0,current smoker,never,3.0,less than an hour a day,1.0,female,right handed,no
+413,5.0,4.0,2.0,1.0,2.0,2.0,3.0,3,2.0,3.0,3.0,3.0,never smoked,social drinker,3.0,few hours a day,2.0,male,right handed,no
+414,5.0,3.0,1.0,2.0,3.0,4.0,4.0,4,4.0,1.0,4.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+415,5.0,1.0,1.0,5.0,5.0,3.0,5.0,5,5.0,5.0,5.0,2.0,current smoker,drink a lot,3.0,few hours a day,5.0,female,right handed,no
+416,4.0,3.0,3.0,3.0,4.0,1.0,3.0,4,1.0,1.0,4.0,1.0,tried smoking,social drinker,2.0,few hours a day,3.0,female,left handed,no
+417,5.0,5.0,1.0,1.0,2.0,4.0,4.0,2,3.0,5.0,2.0,3.0,current smoker,drink a lot,3.0,most of the day,5.0,male,right handed,no
+418,5.0,5.0,3.0,4.0,3.0,4.0,5.0,5,5.0,2.0,4.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+419,5.0,2.0,1.0,2.0,2.0,2.0,1.0,2,1.0,1.0,2.0,1.0,former smoker,never,3.0,less than an hour a day,3.0,female,right handed,yes
+420,5.0,2.0,1.0,5.0,5.0,5.0,3.0,5,3.0,1.0,5.0,3.0,former smoker,social drinker,4.0,few hours a day,1.0,female,right handed,no
+421,5.0,5.0,3.0,2.0,2.0,2.0,2.0,3,2.0,1.0,2.0,1.0,never smoked,social drinker,3.0,few hours a day,1.0,female,left handed,no
+422,5.0,5.0,1.0,3.0,3.0,3.0,5.0,5,5.0,2.0,4.0,4.0,current smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+423,5.0,5.0,4.0,4.0,2.0,4.0,2.0,5,3.0,5.0,5.0,1.0,tried smoking,never,3.0,few hours a day,3.0,female,right handed,no
+424,5.0,5.0,,2.0,4.0,2.0,5.0,5,3.0,1.0,5.0,5.0,former smoker,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+425,5.0,5.0,3.0,3.0,3.0,5.0,5.0,5,5.0,1.0,5.0,3.0,former smoker,social drinker,4.0,less than an hour a day,3.0,female,right handed,no
+426,5.0,1.0,2.0,2.0,4.0,3.0,5.0,2,1.0,1.0,3.0,2.0,current smoker,social drinker,2.0,less than an hour a day,1.0,female,right handed,no
+427,5.0,1.0,1.0,1.0,1.0,5.0,5.0,3,3.0,1.0,3.0,2.0,tried smoking,social drinker,2.0,few hours a day,1.0,male,right handed,no
+428,5.0,5.0,3.0,3.0,5.0,3.0,4.0,4,5.0,3.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+429,5.0,4.0,2.0,3.0,1.0,4.0,2.0,4,3.0,4.0,5.0,2.0,tried smoking,drink a lot,3.0,most of the day,5.0,female,right handed,yes
+430,5.0,4.0,2.0,2.0,2.0,2.0,3.0,2,2.0,2.0,2.0,2.0,tried smoking,never,3.0,less than an hour a day,4.0,female,right handed,no
+431,4.0,3.0,3.0,2.0,1.0,4.0,3.0,4,4.0,3.0,4.0,4.0,tried smoking,never,4.0,few hours a day,3.0,male,left handed,no
+432,5.0,3.0,1.0,1.0,2.0,5.0,2.0,2,2.0,3.0,3.0,4.0,current smoker,drink a lot,2.0,few hours a day,1.0,male,right handed,no
+433,5.0,1.0,2.0,1.0,3.0,2.0,1.0,4,5.0,5.0,5.0,3.0,tried smoking,drink a lot,3.0,few hours a day,1.0,female,right handed,no
+434,5.0,4.0,2.0,1.0,1.0,2.0,3.0,5,2.0,2.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,no
+435,5.0,5.0,2.0,4.0,5.0,5.0,5.0,2,1.0,2.0,5.0,2.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+436,4.0,2.0,1.0,1.0,2.0,1.0,3.0,3,2.0,5.0,3.0,2.0,tried smoking,drink a lot,3.0,few hours a day,1.0,male,right handed,no
+437,5.0,1.0,2.0,4.0,4.0,4.0,5.0,4,4.0,3.0,4.0,3.0,former smoker,social drinker,3.0,few hours a day,1.0,female,right handed,yes
+438,5.0,4.0,4.0,1.0,1.0,2.0,5.0,5,4.0,1.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,1.0,female,right handed,no
+439,5.0,1.0,1.0,1.0,2.0,4.0,1.0,1,1.0,4.0,1.0,3.0,current smoker,social drinker,4.0,few hours a day,4.0,male,right handed,no
+440,5.0,3.0,1.0,2.0,4.0,4.0,5.0,5,4.0,4.0,4.0,5.0,former smoker,drink a lot,5.0,few hours a day,4.0,female,right handed,no
+441,5.0,5.0,1.0,1.0,1.0,1.0,1.0,3,3.0,2.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,left handed,no
+442,5.0,5.0,2.0,1.0,2.0,2.0,2.0,4,3.0,3.0,3.0,2.0,former smoker,drink a lot,3.0,few hours a day,2.0,female,right handed,no
+443,4.0,1.0,1.0,2.0,4.0,1.0,1.0,3,3.0,2.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+444,5.0,1.0,1.0,2.0,2.0,3.0,2.0,2,1.0,4.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+445,5.0,5.0,1.0,2.0,2.0,3.0,5.0,5,5.0,1.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,yes
+446,4.0,2.0,2.0,1.0,2.0,4.0,4.0,4,3.0,1.0,3.0,4.0,current smoker,drink a lot,3.0,few hours a day,3.0,male,right handed,no
+447,3.0,4.0,5.0,3.0,3.0,5.0,4.0,5,4.0,1.0,4.0,3.0,never smoked,social drinker,5.0,less than an hour a day,1.0,female,left handed,no
+448,5.0,4.0,1.0,3.0,2.0,3.0,3.0,3,2.0,3.0,5.0,2.0,current smoker,drink a lot,3.0,few hours a day,3.0,female,right handed,no
+449,5.0,,1.0,1.0,2.0,4.0,4.0,4,1.0,3.0,2.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+450,5.0,5.0,1.0,2.0,1.0,3.0,1.0,3,3.0,1.0,5.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+451,5.0,3.0,1.0,1.0,2.0,2.0,2.0,3,2.0,2.0,3.0,2.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,male,right handed,no
+452,5.0,5.0,1.0,4.0,5.0,1.0,5.0,5,5.0,5.0,3.0,4.0,former smoker,social drinker,4.0,less than an hour a day,5.0,female,right handed,no
+453,5.0,3.0,1.0,1.0,2.0,4.0,4.0,4,1.0,3.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+454,4.0,5.0,1.0,3.0,3.0,3.0,5.0,2,3.0,4.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+455,5.0,3.0,3.0,5.0,5.0,4.0,4.0,5,5.0,2.0,5.0,5.0,never smoked,social drinker,5.0,less than an hour a day,2.0,female,right handed,no
+456,5.0,5.0,2.0,1.0,1.0,2.0,1.0,1,1.0,1.0,3.0,4.0,tried smoking,drink a lot,5.0,few hours a day,5.0,male,right handed,no
+457,5.0,2.0,1.0,1.0,1.0,3.0,2.0,2,2.0,2.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,1.0,male,right handed,no
+458,5.0,1.0,5.0,5.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,social drinker,5.0,few hours a day,3.0,female,right handed,no
+459,4.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2.0,2.0,3.0,3.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,female,right handed,yes
+460,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,5.0,2.0,1.0,tried smoking,drink a lot,3.0,few hours a day,5.0,male,left handed,no
+461,5.0,3.0,2.0,2.0,2.0,2.0,1.0,2,2.0,2.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+462,4.0,2.0,3.0,2.0,3.0,4.0,3.0,4,5.0,5.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+463,5.0,4.0,4.0,4.0,4.0,4.0,2.0,5,1.0,3.0,5.0,5.0,never smoked,social drinker,3.0,less than an hour a day,1.0,female,right handed,yes
+464,5.0,1.0,1.0,2.0,3.0,5.0,4.0,4,5.0,3.0,5.0,1.0,tried smoking,social drinker,5.0,few hours a day,4.0,female,right handed,no
+465,5.0,1.0,2.0,2.0,1.0,1.0,1.0,3,1.0,3.0,1.0,2.0,never smoked,never,4.0,less than an hour a day,3.0,female,right handed,no
+466,5.0,1.0,1.0,1.0,1.0,1.0,3.0,5,1.0,1.0,3.0,3.0,former smoker,drink a lot,3.0,few hours a day,3.0,male,right handed,yes
+467,4.0,1.0,2.0,2.0,3.0,4.0,5.0,5,5.0,4.0,5.0,5.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+468,5.0,4.0,2.0,2.0,1.0,1.0,2.0,3,2.0,3.0,3.0,4.0,current smoker,social drinker,4.0,few hours a day,5.0,female,right handed,yes
+469,5.0,1.0,2.0,2.0,2.0,2.0,1.0,1,1.0,4.0,1.0,3.0,tried smoking,drink a lot,2.0,most of the day,3.0,male,,yes
+470,4.0,2.0,3.0,1.0,5.0,2.0,1.0,3,3.0,3.0,4.0,4.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+471,5.0,1.0,1.0,1.0,2.0,2.0,3.0,1,1.0,3.0,2.0,1.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+472,3.0,2.0,3.0,4.0,2.0,4.0,1.0,1,1.0,4.0,1.0,5.0,never smoked,social drinker,3.0,few hours a day,4.0,male,right handed,no
+473,5.0,5.0,1.0,1.0,1.0,1.0,2.0,2,1.0,1.0,2.0,4.0,current smoker,drink a lot,1.0,less than an hour a day,1.0,male,left handed,yes
+474,5.0,5.0,1.0,3.0,4.0,4.0,3.0,5,5.0,2.0,3.0,5.0,tried smoking,social drinker,4.0,few hours a day,1.0,male,right handed,no
+475,5.0,5.0,2.0,3.0,5.0,1.0,1.0,4,3.0,1.0,2.0,3.0,current smoker,drink a lot,3.0,few hours a day,2.0,female,right handed,no
+476,5.0,5.0,2.0,5.0,2.0,5.0,2.0,2,2.0,2.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+477,5.0,4.0,1.0,1.0,1.0,3.0,2.0,2,1.0,3.0,2.0,1.0,tried smoking,social drinker,4.0,most of the day,5.0,female,right handed,no
+478,5.0,4.0,5.0,1.0,3.0,4.0,2.0,2,2.0,2.0,4.0,4.0,former smoker,never,2.0,most of the day,4.0,male,right handed,no
+479,5.0,5.0,1.0,2.0,2.0,1.0,3.0,3,3.0,3.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,no
+480,5.0,5.0,2.0,2.0,4.0,1.0,2.0,3,1.0,1.0,2.0,4.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+481,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,3.0,2.0,never smoked,social drinker,4.0,few hours a day,1.0,male,right handed,no
+482,3.0,5.0,2.0,1.0,2.0,4.0,2.0,2,2.0,1.0,2.0,4.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+483,5.0,3.0,1.0,1.0,3.0,1.0,4.0,3,1.0,4.0,5.0,3.0,former smoker,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+484,5.0,1.0,1.0,3.0,1.0,2.0,5.0,5,1.0,5.0,5.0,5.0,tried smoking,drink a lot,3.0,few hours a day,3.0,female,right handed,no
+485,5.0,1.0,1.0,1.0,2.0,1.0,5.0,1,1.0,5.0,2.0,3.0,never smoked,social drinker,3.0,few hours a day,4.0,female,right handed,no
+486,3.0,1.0,3.0,4.0,3.0,4.0,5.0,4,3.0,4.0,5.0,2.0,tried smoking,social drinker,2.0,few hours a day,2.0,female,right handed,no
+487,5.0,1.0,1.0,1.0,5.0,1.0,3.0,5,5.0,1.0,3.0,1.0,current smoker,drink a lot,3.0,most of the day,3.0,female,right handed,no
+488,5.0,3.0,1.0,2.0,1.0,2.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,social drinker,4.0,few hours a day,2.0,male,right handed,no
+489,5.0,2.0,1.0,1.0,1.0,4.0,5.0,4,2.0,5.0,5.0,1.0,current smoker,social drinker,3.0,few hours a day,5.0,female,right handed,yes
+490,4.0,1.0,2.0,1.0,1.0,2.0,5.0,5,5.0,5.0,5.0,4.0,never smoked,never,4.0,less than an hour a day,2.0,female,right handed,no
+491,5.0,2.0,2.0,5.0,3.0,2.0,5.0,1,1.0,1.0,4.0,3.0,former smoker,social drinker,3.0,less than an hour a day,1.0,female,right handed,no
+492,5.0,5.0,2.0,1.0,2.0,3.0,4.0,3,2.0,2.0,2.0,3.0,former smoker,social drinker,4.0,few hours a day,4.0,female,right handed,no
+493,5.0,5.0,2.0,1.0,1.0,4.0,2.0,3,3.0,2.0,2.0,3.0,current smoker,drink a lot,3.0,most of the day,4.0,male,right handed,no
+494,5.0,1.0,2.0,2.0,1.0,2.0,1.0,2,2.0,3.0,3.0,1.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+495,5.0,4.0,1.0,2.0,3.0,2.0,4.0,4,3.0,5.0,2.0,4.0,tried smoking,social drinker,4.0,most of the day,4.0,female,right handed,no
+496,3.0,2.0,3.0,2.0,2.0,2.0,5.0,3,3.0,2.0,3.0,3.0,never smoked,social drinker,3.0,less than an hour a day,2.0,female,right handed,no
+497,5.0,1.0,1.0,1.0,1.0,1.0,1.0,2,4.0,1.0,4.0,3.0,former smoker,social drinker,2.0,less than an hour a day,3.0,female,right handed,no
+498,5.0,5.0,4.0,1.0,1.0,4.0,1.0,4,3.0,3.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+499,5.0,1.0,3.0,1.0,1.0,3.0,1.0,1,1.0,1.0,4.0,2.0,tried smoking,drink a lot,3.0,most of the day,1.0,male,right handed,no
+500,5.0,5.0,1.0,3.0,2.0,3.0,2.0,4,4.0,2.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,left handed,no
+501,5.0,1.0,1.0,2.0,2.0,2.0,5.0,4,5.0,3.0,5.0,5.0,tried smoking,social drinker,3.0,few hours a day,5.0,female,right handed,no
+502,5.0,1.0,2.0,1.0,1.0,2.0,3.0,3,1.0,2.0,3.0,2.0,tried smoking,drink a lot,4.0,most of the day,5.0,male,right handed,no
+503,5.0,3.0,2.0,1.0,2.0,1.0,4.0,5,4.0,3.0,5.0,4.0,never smoked,social drinker,3.0,few hours a day,1.0,female,right handed,no
+504,5.0,5.0,5.0,3.0,1.0,1.0,1.0,1,1.0,1.0,1.0,4.0,former smoker,social drinker,4.0,few hours a day,4.0,female,right handed,no
+505,5.0,1.0,3.0,2.0,2.0,3.0,1.0,5,2.0,2.0,4.0,3.0,current smoker,drink a lot,3.0,few hours a day,2.0,male,right handed,no
+506,5.0,4.0,1.0,1.0,1.0,1.0,2.0,1,2.0,1.0,1.0,2.0,former smoker,drink a lot,4.0,few hours a day,4.0,male,left handed,no
+507,5.0,3.0,3.0,2.0,2.0,2.0,5.0,3,2.0,1.0,5.0,2.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,no
+508,5.0,3.0,3.0,2.0,2.0,4.0,4.0,4,1.0,1.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,yes
+509,4.0,4.0,2.0,2.0,1.0,1.0,1.0,4,4.0,5.0,4.0,1.0,tried smoking,never,5.0,few hours a day,5.0,female,right handed,yes
+510,5.0,5.0,1.0,3.0,1.0,1.0,1.0,2,1.0,5.0,2.0,1.0,never smoked,social drinker,3.0,less than an hour a day,4.0,male,right handed,yes
+511,5.0,4.0,2.0,1.0,2.0,1.0,2.0,1,2.0,2.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,no
+512,5.0,1.0,5.0,5.0,1.0,3.0,5.0,5,5.0,1.0,5.0,1.0,tried smoking,never,4.0,few hours a day,5.0,female,right handed,yes
+513,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,2.0,3.0,never smoked,drink a lot,3.0,most of the day,4.0,male,right handed,yes
+514,5.0,2.0,2.0,3.0,3.0,3.0,4.0,4,4.0,3.0,5.0,1.0,never smoked,social drinker,3.0,few hours a day,2.0,male,right handed,yes
+515,5.0,1.0,1.0,1.0,3.0,1.0,2.0,1,1.0,1.0,3.0,3.0,former smoker,drink a lot,2.0,most of the day,5.0,male,right handed,no
+516,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1,1.0,5.0,1.0,3.0,tried smoking,never,5.0,few hours a day,5.0,male,right handed,no
+517,5.0,2.0,3.0,2.0,1.0,3.0,1.0,3,4.0,4.0,5.0,4.0,former smoker,social drinker,4.0,few hours a day,4.0,female,right handed,no
+518,5.0,5.0,2.0,1.0,5.0,2.0,2.0,1,1.0,3.0,2.0,3.0,former smoker,social drinker,4.0,less than an hour a day,4.0,female,right handed,no
+519,5.0,2.0,1.0,1.0,1.0,2.0,1.0,3,1.0,5.0,2.0,4.0,tried smoking,drink a lot,3.0,few hours a day,2.0,male,right handed,no
+520,5.0,3.0,4.0,2.0,5.0,2.0,5.0,5,4.0,3.0,4.0,1.0,former smoker,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+521,5.0,4.0,3.0,4.0,5.0,1.0,1.0,1,3.0,2.0,4.0,5.0,tried smoking,drink a lot,3.0,few hours a day,1.0,female,right handed,yes
+522,5.0,5.0,1.0,1.0,1.0,3.0,2.0,3,1.0,3.0,1.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+523,5.0,4.0,1.0,1.0,1.0,2.0,1.0,1,1.0,3.0,3.0,4.0,current smoker,social drinker,3.0,few hours a day,5.0,male,left handed,no
+524,5.0,5.0,1.0,2.0,3.0,2.0,2.0,1,1.0,3.0,2.0,5.0,current smoker,drink a lot,4.0,less than an hour a day,5.0,female,right handed,no
+525,3.0,4.0,4.0,2.0,2.0,3.0,1.0,1,1.0,3.0,3.0,2.0,,social drinker,3.0,few hours a day,3.0,female,right handed,no
+526,5.0,5.0,1.0,1.0,1.0,2.0,1.0,2,2.0,4.0,3.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,no
+527,4.0,5.0,1.0,1.0,1.0,2.0,3.0,3,3.0,2.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,2.0,female,left handed,yes
+528,5.0,1.0,1.0,2.0,1.0,3.0,1.0,3,1.0,1.0,4.0,3.0,tried smoking,social drinker,3.0,most of the day,4.0,male,right handed,no
+529,5.0,3.0,1.0,1.0,2.0,2.0,1.0,1,1.0,3.0,1.0,3.0,never smoked,social drinker,3.0,few hours a day,4.0,male,right handed,no
+530,5.0,2.0,1.0,2.0,3.0,3.0,3.0,1,2.0,2.0,4.0,2.0,former smoker,social drinker,2.0,most of the day,1.0,female,right handed,no
+531,5.0,1.0,1.0,1.0,1.0,3.0,2.0,5,1.0,1.0,1.0,2.0,never smoked,social drinker,1.0,few hours a day,3.0,male,right handed,no
+532,5.0,1.0,4.0,1.0,1.0,2.0,2.0,2,1.0,4.0,1.0,1.0,former smoker,drink a lot,4.0,few hours a day,2.0,female,right handed,yes
+533,5.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1.0,2.0,2.0,1.0,former smoker,social drinker,3.0,few hours a day,4.0,male,right handed,no
+534,5.0,5.0,3.0,2.0,2.0,4.0,5.0,5,5.0,3.0,5.0,4.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+535,5.0,5.0,1.0,1.0,3.0,1.0,1.0,3,1.0,1.0,1.0,1.0,current smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+536,5.0,5.0,1.0,2.0,5.0,1.0,5.0,3,3.0,5.0,1.0,1.0,current smoker,drink a lot,3.0,few hours a day,5.0,female,right handed,no
+537,5.0,1.0,3.0,1.0,3.0,2.0,2.0,3,1.0,5.0,3.0,3.0,tried smoking,drink a lot,3.0,few hours a day,2.0,male,right handed,no
+538,5.0,5.0,4.0,3.0,3.0,3.0,5.0,5,5.0,2.0,5.0,2.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+539,5.0,1.0,1.0,2.0,2.0,4.0,4.0,5,5.0,4.0,4.0,1.0,current smoker,social drinker,3.0,most of the day,4.0,male,right handed,no
+540,5.0,5.0,3.0,3.0,3.0,3.0,3.0,5,,4.0,3.0,3.0,former smoker,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+541,5.0,3.0,1.0,2.0,1.0,1.0,3.0,4,3.0,1.0,2.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+542,5.0,2.0,2.0,2.0,4.0,5.0,4.0,4,4.0,2.0,3.0,4.0,former smoker,drink a lot,3.0,most of the day,3.0,,right handed,no
+543,5.0,2.0,4.0,3.0,2.0,4.0,4.0,5,3.0,1.0,4.0,1.0,tried smoking,social drinker,4.0,most of the day,2.0,male,right handed,no
+544,5.0,5.0,1.0,1.0,1.0,4.0,1.0,1,2.0,4.0,5.0,3.0,former smoker,drink a lot,4.0,few hours a day,4.0,male,right handed,yes
+545,5.0,1.0,5.0,3.0,1.0,3.0,3.0,3,3.0,3.0,5.0,3.0,former smoker,social drinker,5.0,most of the day,1.0,male,right handed,no
+546,5.0,2.0,1.0,1.0,1.0,1.0,1.0,2,1.0,2.0,5.0,1.0,tried smoking,social drinker,4.0,few hours a day,2.0,male,right handed,no
+547,5.0,4.0,1.0,1.0,2.0,3.0,1.0,1,1.0,1.0,4.0,1.0,current smoker,social drinker,4.0,few hours a day,1.0,male,left handed,no
+548,4.0,3.0,3.0,2.0,3.0,4.0,1.0,5,2.0,1.0,3.0,3.0,never smoked,social drinker,4.0,less than an hour a day,3.0,female,right handed,no
+549,5.0,2.0,3.0,3.0,5.0,2.0,2.0,5,5.0,5.0,1.0,1.0,current smoker,social drinker,3.0,less than an hour a day,1.0,female,left handed,no
+550,5.0,5.0,1.0,1.0,4.0,3.0,5.0,4,4.0,1.0,4.0,4.0,tried smoking,social drinker,3.0,few hours a day,5.0,female,left handed,yes
+551,5.0,1.0,4.0,3.0,5.0,4.0,5.0,4,3.0,2.0,5.0,4.0,tried smoking,never,4.0,less than an hour a day,2.0,female,right handed,no
+552,5.0,5.0,2.0,2.0,1.0,2.0,5.0,5,5.0,3.0,3.0,1.0,former smoker,social drinker,2.0,few hours a day,3.0,female,right handed,no
+553,3.0,5.0,1.0,4.0,4.0,3.0,5.0,4,4.0,5.0,4.0,3.0,never smoked,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+554,4.0,3.0,3.0,2.0,2.0,3.0,2.0,3,2.0,2.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+555,5.0,3.0,1.0,4.0,4.0,5.0,1.0,5,1.0,3.0,5.0,5.0,former smoker,social drinker,2.0,few hours a day,1.0,female,right handed,yes
+556,5.0,2.0,2.0,1.0,1.0,2.0,5.0,5,5.0,4.0,5.0,4.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,yes
+557,5.0,5.0,1.0,3.0,5.0,5.0,5.0,5,4.0,5.0,4.0,5.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+558,,4.0,2.0,2.0,2.0,3.0,5.0,5,5.0,2.0,3.0,2.0,never smoked,social drinker,4.0,few hours a day,2.0,female,right handed,no
+559,5.0,2.0,1.0,3.0,3.0,2.0,1.0,5,3.0,5.0,4.0,3.0,current smoker,social drinker,3.0,most of the day,2.0,female,right handed,yes
+560,5.0,5.0,4.0,5.0,5.0,5.0,1.0,5,5.0,5.0,5.0,4.0,never smoked,social drinker,4.0,less than an hour a day,1.0,female,right handed,yes
+561,5.0,3.0,3.0,1.0,2.0,2.0,2.0,1,1.0,3.0,2.0,3.0,tried smoking,never,4.0,less than an hour a day,3.0,male,right handed,no
+562,5.0,3.0,3.0,3.0,1.0,1.0,1.0,3,1.0,1.0,3.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,male,right handed,yes
+563,5.0,4.0,1.0,2.0,1.0,4.0,4.0,4,4.0,4.0,1.0,1.0,tried smoking,never,4.0,few hours a day,5.0,male,left handed,no
+564,5.0,3.0,1.0,1.0,1.0,1.0,5.0,5,5.0,1.0,2.0,1.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,male,right handed,no
+565,5.0,2.0,1.0,1.0,3.0,3.0,5.0,4,4.0,3.0,3.0,4.0,former smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+566,5.0,4.0,2.0,1.0,2.0,4.0,3.0,5,2.0,1.0,2.0,5.0,never smoked,social drinker,4.0,less than an hour a day,3.0,female,right handed,no
+567,5.0,2.0,2.0,2.0,2.0,3.0,1.0,3,2.0,4.0,4.0,2.0,,drink a lot,2.0,few hours a day,4.0,male,right handed,no
+568,5.0,1.0,2.0,5.0,3.0,3.0,3.0,5,4.0,4.0,5.0,3.0,tried smoking,social drinker,4.0,most of the day,2.0,female,right handed,no
+569,5.0,5.0,4.0,2.0,3.0,1.0,2.0,3,2.0,1.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,no
+570,5.0,3.0,1.0,1.0,1.0,4.0,1.0,5,4.0,5.0,4.0,1.0,former smoker,social drinker,3.0,few hours a day,5.0,male,left handed,no
+571,3.0,4.0,2.0,3.0,4.0,4.0,3.0,1,1.0,1.0,5.0,4.0,current smoker,never,5.0,few hours a day,4.0,male,right handed,yes
+572,5.0,5.0,1.0,1.0,1.0,2.0,2.0,1,1.0,3.0,2.0,3.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+573,4.0,4.0,1.0,1.0,1.0,3.0,5.0,5,5.0,1.0,1.0,3.0,never smoked,social drinker,3.0,most of the day,5.0,male,right handed,no
+574,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,never smoked,social drinker,3.0,less than an hour a day,1.0,female,right handed,no
+575,5.0,4.0,2.0,2.0,2.0,2.0,2.0,3,3.0,4.0,4.0,2.0,tried smoking,social drinker,2.0,less than an hour a day,4.0,female,right handed,no
+576,5.0,4.0,1.0,1.0,1.0,2.0,4.0,1,1.0,1.0,1.0,2.0,tried smoking,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+577,5.0,5.0,3.0,3.0,4.0,3.0,5.0,5,5.0,2.0,5.0,2.0,former smoker,social drinker,2.0,few hours a day,3.0,female,right handed,no
+578,5.0,5.0,3.0,3.0,1.0,1.0,4.0,5,2.0,4.0,5.0,4.0,never smoked,social drinker,4.0,few hours a day,1.0,female,right handed,yes
+579,5.0,2.0,4.0,2.0,2.0,4.0,2.0,4,1.0,2.0,3.0,4.0,never smoked,social drinker,3.0,most of the day,2.0,male,right handed,yes
+580,5.0,,1.0,1.0,1.0,1.0,1.0,2,1.0,1.0,1.0,1.0,tried smoking,social drinker,3.0,few hours a day,5.0,male,left handed,yes
+581,5.0,5.0,2.0,2.0,3.0,3.0,5.0,5,3.0,4.0,5.0,4.0,current smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+582,3.0,1.0,2.0,2.0,2.0,2.0,4.0,4,2.0,3.0,3.0,2.0,never smoked,drink a lot,2.0,few hours a day,4.0,male,right handed,no
+583,5.0,4.0,2.0,1.0,4.0,2.0,1.0,1,1.0,1.0,2.0,2.0,tried smoking,social drinker,4.0,most of the day,4.0,male,right handed,no
+584,5.0,5.0,3.0,1.0,1.0,3.0,3.0,3,3.0,3.0,3.0,4.0,current smoker,drink a lot,4.0,most of the day,2.0,female,left handed,no
+585,5.0,3.0,5.0,4.0,3.0,3.0,3.0,5,3.0,4.0,5.0,3.0,tried smoking,social drinker,4.0,less than an hour a day,3.0,male,right handed,no
+586,5.0,4.0,1.0,3.0,1.0,5.0,3.0,1,1.0,3.0,5.0,2.0,never smoked,never,3.0,few hours a day,1.0,male,right handed,no
+587,5.0,5.0,2.0,3.0,3.0,1.0,3.0,3,1.0,1.0,2.0,2.0,former smoker,drink a lot,2.0,few hours a day,2.0,female,right handed,no
+588,5.0,3.0,1.0,2.0,2.0,1.0,5.0,5,4.0,2.0,5.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,4.0,female,right handed,yes
+589,5.0,4.0,1.0,5.0,3.0,1.0,5.0,1,1.0,2.0,1.0,1.0,current smoker,social drinker,4.0,few hours a day,5.0,female,right handed,no
+590,5.0,4.0,2.0,2.0,1.0,2.0,1.0,1,1.0,3.0,4.0,2.0,never smoked,drink a lot,4.0,few hours a day,2.0,male,right handed,no
+591,4.0,3.0,5.0,1.0,5.0,1.0,1.0,4,2.0,3.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,4.0,female,right handed,no
+592,5.0,5.0,1.0,1.0,2.0,5.0,1.0,5,5.0,3.0,3.0,2.0,tried smoking,never,4.0,few hours a day,4.0,female,right handed,yes
+593,5.0,5.0,2.0,2.0,2.0,3.0,2.0,1,1.0,1.0,2.0,2.0,tried smoking,social drinker,3.0,less than an hour a day,1.0,female,right handed,no
+594,5.0,1.0,3.0,2.0,2.0,2.0,1.0,3,2.0,5.0,5.0,1.0,current smoker,never,1.0,few hours a day,4.0,male,right handed,no
+595,5.0,5.0,2.0,1.0,1.0,5.0,1.0,1,1.0,1.0,3.0,5.0,current smoker,drink a lot,2.0,most of the day,1.0,male,right handed,yes
+596,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,2.0,4.0,current smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,
+597,5.0,2.0,3.0,1.0,2.0,2.0,1.0,4,4.0,3.0,4.0,5.0,tried smoking,social drinker,4.0,less than an hour a day,3.0,male,right handed,no
+598,4.0,5.0,1.0,1.0,2.0,4.0,4.0,3,2.0,5.0,3.0,4.0,never smoked,never,3.0,few hours a day,2.0,male,left handed,no
+599,5.0,2.0,3.0,1.0,2.0,4.0,2.0,2,2.0,3.0,3.0,3.0,never smoked,drink a lot,4.0,few hours a day,4.0,male,right handed,no
+600,5.0,5.0,3.0,3.0,4.0,2.0,5.0,3,1.0,1.0,3.0,2.0,current smoker,social drinker,3.0,most of the day,2.0,female,right handed,yes
+601,5.0,5.0,3.0,4.0,4.0,3.0,3.0,5,4.0,2.0,5.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+602,4.0,3.0,1.0,1.0,1.0,2.0,3.0,2,2.0,1.0,2.0,1.0,former smoker,drink a lot,3.0,few hours a day,1.0,male,right handed,no
+603,5.0,3.0,2.0,3.0,4.0,4.0,3.0,4,4.0,4.0,2.0,2.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+604,5.0,5.0,2.0,3.0,5.0,4.0,5.0,5,3.0,3.0,5.0,5.0,current smoker,social drinker,3.0,few hours a day,4.0,female,right handed,no
+605,5.0,5.0,1.0,1.0,1.0,1.0,5.0,5,1.0,3.0,2.0,4.0,never smoked,social drinker,4.0,less than an hour a day,5.0,male,left handed,no
+606,4.0,4.0,4.0,1.0,2.0,2.0,1.0,1,1.0,2.0,3.0,2.0,never smoked,never,4.0,few hours a day,4.0,male,right handed,no
+607,3.0,5.0,3.0,2.0,3.0,3.0,2.0,2,1.0,1.0,4.0,2.0,current smoker,drink a lot,5.0,less than an hour a day,1.0,female,right handed,no
+608,3.0,4.0,3.0,4.0,2.0,4.0,2.0,5,2.0,4.0,2.0,3.0,current smoker,drink a lot,2.0,few hours a day,2.0,male,right handed,no
+609,4.0,3.0,3.0,1.0,1.0,1.0,1.0,1,1.0,1.0,2.0,1.0,never smoked,,4.0,few hours a day,3.0,male,right handed,no
+610,5.0,1.0,3.0,1.0,2.0,3.0,5.0,2,2.0,4.0,3.0,4.0,current smoker,social drinker,2.0,few hours a day,2.0,male,right handed,no
+611,5.0,5.0,1.0,4.0,4.0,3.0,4.0,4,3.0,2.0,3.0,3.0,tried smoking,social drinker,3.0,most of the day,4.0,female,right handed,yes
+612,5.0,2.0,1.0,3.0,3.0,3.0,3.0,3,3.0,3.0,3.0,1.0,current smoker,social drinker,4.0,most of the day,5.0,male,right handed,no
+613,5.0,5.0,4.0,2.0,4.0,4.0,5.0,5,4.0,3.0,2.0,4.0,former smoker,drink a lot,4.0,most of the day,4.0,female,right handed,no
+614,5.0,5.0,5.0,3.0,1.0,5.0,1.0,5,1.0,5.0,1.0,1.0,current smoker,social drinker,2.0,few hours a day,5.0,female,right handed,no
+615,5.0,2.0,2.0,1.0,1.0,2.0,1.0,1,1.0,1.0,3.0,1.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,yes
+616,3.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,drink a lot,1.0,few hours a day,4.0,male,right handed,yes
+617,5.0,1.0,3.0,1.0,1.0,4.0,1.0,1,3.0,2.0,3.0,1.0,current smoker,drink a lot,5.0,most of the day,5.0,female,right handed,no
+618,5.0,1.0,1.0,1.0,1.0,1.0,3.0,1,1.0,1.0,1.0,3.0,current smoker,social drinker,4.0,most of the day,3.0,female,right handed,yes
+619,5.0,1.0,1.0,1.0,2.0,2.0,3.0,5,2.0,4.0,3.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+620,5.0,2.0,1.0,1.0,1.0,1.0,3.0,3,1.0,2.0,2.0,4.0,former smoker,drink a lot,2.0,most of the day,3.0,male,right handed,no
+621,4.0,3.0,4.0,1.0,1.0,3.0,5.0,1,2.0,5.0,4.0,5.0,tried smoking,social drinker,4.0,most of the day,5.0,,left handed,no
+622,5.0,5.0,5.0,2.0,3.0,2.0,2.0,4,1.0,4.0,1.0,1.0,former smoker,drink a lot,4.0,few hours a day,3.0,female,right handed,no
+623,5.0,3.0,1.0,1.0,2.0,4.0,1.0,5,2.0,2.0,4.0,2.0,former smoker,drink a lot,3.0,few hours a day,1.0,male,right handed,no
+624,5.0,2.0,3.0,1.0,4.0,1.0,5.0,2,1.0,2.0,1.0,4.0,tried smoking,social drinker,2.0,few hours a day,4.0,female,right handed,no
+625,5.0,5.0,1.0,3.0,3.0,3.0,5.0,5,5.0,1.0,4.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,yes
+626,5.0,4.0,3.0,4.0,4.0,5.0,2.0,2,4.0,3.0,2.0,3.0,current smoker,never,3.0,less than an hour a day,3.0,female,right handed,no
+627,5.0,1.0,4.0,4.0,3.0,3.0,3.0,4,4.0,5.0,5.0,5.0,tried smoking,social drinker,3.0,less than an hour a day,5.0,female,right handed,no
+628,4.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,4.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,yes
+629,5.0,5.0,1.0,3.0,2.0,1.0,3.0,5,2.0,1.0,2.0,2.0,,,4.0,few hours a day,3.0,female,right handed,yes
+630,5.0,1.0,3.0,3.0,3.0,5.0,5.0,4,4.0,1.0,5.0,5.0,never smoked,social drinker,3.0,few hours a day,3.0,female,right handed,no
+631,5.0,5.0,3.0,1.0,1.0,2.0,4.0,2,2.0,3.0,5.0,1.0,never smoked,never,3.0,few hours a day,3.0,female,right handed,no
+632,5.0,4.0,1.0,1.0,2.0,2.0,1.0,1,1.0,4.0,3.0,4.0,never smoked,never,4.0,few hours a day,3.0,male,right handed,no
+633,5.0,3.0,1.0,1.0,1.0,4.0,1.0,3,1.0,1.0,3.0,1.0,never smoked,social drinker,3.0,less than an hour a day,3.0,male,right handed,no
+634,5.0,2.0,1.0,1.0,2.0,1.0,4.0,3,2.0,2.0,3.0,2.0,never smoked,social drinker,4.0,few hours a day,5.0,female,right handed,no
+635,4.0,2.0,2.0,2.0,2.0,3.0,3.0,3,3.0,4.0,4.0,4.0,tried smoking,drink a lot,4.0,less than an hour a day,2.0,female,right handed,no
+636,5.0,4.0,2.0,3.0,3.0,3.0,3.0,1,1.0,3.0,1.0,1.0,current smoker,drink a lot,4.0,few hours a day,4.0,male,right handed,no
+637,5.0,5.0,1.0,1.0,2.0,2.0,1.0,3,2.0,3.0,4.0,1.0,never smoked,social drinker,3.0,less than an hour a day,4.0,male,right handed,no
+638,5.0,5.0,2.0,1.0,2.0,5.0,3.0,3,2.0,4.0,4.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+639,5.0,1.0,3.0,1.0,2.0,5.0,3.0,2,1.0,3.0,3.0,4.0,never smoked,social drinker,3.0,few hours a day,2.0,male,right handed,no
+640,5.0,4.0,1.0,3.0,1.0,2.0,5.0,5,5.0,3.0,5.0,3.0,current smoker,social drinker,5.0,few hours a day,5.0,female,right handed,no
+641,5.0,3.0,2.0,2.0,3.0,4.0,2.0,2,2.0,5.0,2.0,3.0,tried smoking,social drinker,3.0,most of the day,2.0,male,right handed,no
+642,4.0,5.0,1.0,2.0,2.0,5.0,1.0,1,1.0,3.0,5.0,4.0,tried smoking,social drinker,4.0,most of the day,4.0,male,right handed,yes
+643,5.0,5.0,1.0,2.0,4.0,1.0,2.0,2,2.0,1.0,2.0,2.0,former smoker,social drinker,4.0,few hours a day,2.0,female,right handed,no
+644,4.0,5.0,1.0,2.0,2.0,1.0,4.0,2,1.0,2.0,3.0,2.0,tried smoking,social drinker,5.0,few hours a day,5.0,female,right handed,no
+645,5.0,5.0,1.0,3.0,1.0,2.0,1.0,2,1.0,2.0,4.0,3.0,tried smoking,never,4.0,few hours a day,4.0,male,right handed,yes
+646,4.0,1.0,1.0,1.0,1.0,2.0,2.0,1,1.0,1.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,left handed,no
+647,5.0,5.0,3.0,3.0,5.0,5.0,3.0,5,5.0,1.0,5.0,3.0,tried smoking,social drinker,3.0,most of the day,2.0,female,right handed,yes
+648,5.0,2.0,3.0,4.0,4.0,3.0,4.0,4,4.0,4.0,5.0,3.0,never smoked,never,3.0,few hours a day,2.0,female,right handed,no
+649,5.0,5.0,1.0,2.0,2.0,2.0,5.0,2,1.0,1.0,1.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,no
+650,5.0,5.0,2.0,1.0,1.0,2.0,2.0,2,4.0,4.0,3.0,3.0,tried smoking,social drinker,2.0,few hours a day,3.0,male,left handed,no
+651,5.0,2.0,1.0,1.0,1.0,2.0,1.0,3,1.0,2.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+652,4.0,1.0,3.0,1.0,2.0,3.0,4.0,4,4.0,2.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,yes
+653,5.0,5.0,1.0,1.0,3.0,3.0,2.0,3,4.0,1.0,2.0,2.0,former smoker,social drinker,4.0,few hours a day,1.0,female,left handed,yes
+654,4.0,4.0,2.0,2.0,2.0,3.0,4.0,5,5.0,3.0,3.0,2.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+655,5.0,1.0,3.0,2.0,4.0,3.0,4.0,4,4.0,3.0,5.0,4.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+656,5.0,5.0,5.0,2.0,2.0,2.0,5.0,5,5.0,3.0,5.0,3.0,never smoked,never,,few hours a day,5.0,female,left handed,no
+657,5.0,3.0,1.0,4.0,5.0,3.0,4.0,5,5.0,4.0,3.0,2.0,never smoked,never,3.0,most of the day,3.0,female,right handed,yes
+658,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,2.0,1.0,former smoker,social drinker,3.0,few hours a day,2.0,male,right handed,no
+659,5.0,2.0,1.0,1.0,3.0,3.0,1.0,1,1.0,5.0,4.0,5.0,former smoker,social drinker,3.0,few hours a day,5.0,male,right handed,no
+660,5.0,1.0,3.0,3.0,5.0,4.0,2.0,5,5.0,5.0,5.0,5.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,female,right handed,no
+661,5.0,4.0,1.0,2.0,2.0,3.0,2.0,2,3.0,4.0,3.0,3.0,current smoker,drink a lot,3.0,few hours a day,3.0,female,right handed,yes
+662,5.0,5.0,1.0,3.0,3.0,3.0,4.0,5,3.0,1.0,4.0,5.0,former smoker,drink a lot,2.0,few hours a day,4.0,female,right handed,no
+663,5.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2.0,2.0,2.0,2.0,never smoked,never,3.0,no time at all,3.0,male,right handed,no
+664,5.0,2.0,1.0,3.0,5.0,4.0,2.0,5,5.0,4.0,4.0,2.0,never smoked,never,4.0,few hours a day,,female,right handed,no
+665,5.0,5.0,1.0,1.0,1.0,2.0,3.0,1,1.0,3.0,4.0,4.0,current smoker,social drinker,3.0,few hours a day,3.0,female,left handed,no
+666,5.0,5.0,1.0,1.0,2.0,1.0,2.0,1,1.0,2.0,1.0,3.0,former smoker,social drinker,3.0,few hours a day,1.0,female,right handed,no
+667,5.0,4.0,1.0,1.0,2.0,2.0,2.0,2,1.0,1.0,1.0,4.0,former smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+668,5.0,2.0,1.0,3.0,3.0,4.0,2.0,1,1.0,4.0,1.0,2.0,tried smoking,drink a lot,2.0,few hours a day,4.0,male,left handed,yes
+669,4.0,3.0,4.0,2.0,2.0,2.0,2.0,2,2.0,2.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+670,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,current smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+671,5.0,5.0,2.0,2.0,5.0,5.0,2.0,3,5.0,5.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+672,3.0,5.0,1.0,3.0,2.0,1.0,5.0,5,3.0,5.0,5.0,4.0,former smoker,social drinker,3.0,few hours a day,4.0,female,right handed,no
+673,4.0,5.0,3.0,1.0,1.0,3.0,4.0,3,1.0,3.0,3.0,2.0,tried smoking,social drinker,3.0,less than an hour a day,2.0,female,right handed,no
+674,5.0,3.0,1.0,1.0,1.0,2.0,1.0,3,3.0,3.0,2.0,3.0,tried smoking,social drinker,4.0,less than an hour a day,2.0,male,right handed,no
+675,5.0,2.0,4.0,5.0,3.0,2.0,4.0,3,3.0,2.0,5.0,4.0,never smoked,social drinker,4.0,most of the day,3.0,female,right handed,no
+676,5.0,3.0,1.0,2.0,2.0,2.0,3.0,3,4.0,3.0,3.0,3.0,current smoker,drink a lot,3.0,few hours a day,2.0,female,right handed,no
+677,4.0,5.0,1.0,1.0,1.0,2.0,1.0,1,1.0,1.0,3.0,5.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+678,5.0,5.0,1.0,1.0,1.0,1.0,3.0,1,3.0,3.0,1.0,5.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+679,5.0,5.0,3.0,1.0,2.0,1.0,1.0,2,3.0,3.0,5.0,5.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,left handed,yes
+680,5.0,5.0,1.0,3.0,2.0,1.0,5.0,3,1.0,1.0,1.0,3.0,former smoker,social drinker,3.0,few hours a day,3.0,female,right handed,no
+681,5.0,3.0,3.0,2.0,4.0,4.0,5.0,4,1.0,1.0,1.0,4.0,former smoker,drink a lot,3.0,few hours a day,3.0,female,right handed,no
+682,4.0,5.0,3.0,1.0,1.0,2.0,2.0,5,3.0,2.0,4.0,3.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+683,5.0,5.0,5.0,4.0,2.0,3.0,,4,5.0,3.0,5.0,3.0,never smoked,never,4.0,less than an hour a day,1.0,female,right handed,yes
+684,5.0,3.0,4.0,4.0,4.0,3.0,3.0,3,5.0,1.0,3.0,4.0,former smoker,social drinker,3.0,few hours a day,4.0,female,right handed,no
+685,5.0,5.0,2.0,3.0,2.0,4.0,4.0,4,3.0,1.0,2.0,4.0,current smoker,social drinker,4.0,few hours a day,2.0,female,right handed,yes
+686,2.0,3.0,3.0,3.0,3.0,3.0,3.0,3,3.0,3.0,3.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,male,right handed,yes
+687,5.0,2.0,5.0,1.0,2.0,2.0,5.0,2,2.0,3.0,4.0,1.0,current smoker,social drinker,5.0,few hours a day,3.0,male,right handed,no
+688,5.0,1.0,1.0,2.0,1.0,1.0,5.0,5,5.0,3.0,5.0,3.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+689,5.0,5.0,2.0,1.0,2.0,3.0,1.0,4,2.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+690,5.0,2.0,1.0,1.0,3.0,3.0,4.0,5,4.0,1.0,5.0,4.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+691,5.0,3.0,1.0,2.0,2.0,2.0,5.0,5,4.0,3.0,3.0,4.0,current smoker,drink a lot,3.0,less than an hour a day,3.0,female,right handed,yes
+692,5.0,3.0,2.0,3.0,3.0,3.0,1.0,1,1.0,3.0,2.0,3.0,never smoked,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+693,5.0,3.0,2.0,3.0,2.0,3.0,2.0,3,4.0,3.0,5.0,4.0,tried smoking,never,3.0,few hours a day,3.0,female,right handed,yes
+694,5.0,1.0,2.0,2.0,1.0,1.0,3.0,5,2.0,1.0,2.0,1.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+695,5.0,5.0,2.0,4.0,3.0,3.0,5.0,3,2.0,1.0,1.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,female,right handed,yes
+696,5.0,3.0,3.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,never smoked,social drinker,3.0,less than an hour a day,2.0,female,right handed,yes
+697,5.0,1.0,1.0,3.0,3.0,2.0,5.0,5,5.0,1.0,4.0,5.0,never smoked,social drinker,3.0,most of the day,3.0,female,right handed,no
+698,5.0,2.0,5.0,3.0,3.0,3.0,2.0,4,4.0,5.0,5.0,4.0,current smoker,social drinker,5.0,most of the day,5.0,female,right handed,yes
+699,5.0,1.0,3.0,2.0,2.0,2.0,2.0,4,3.0,3.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,no
+700,5.0,5.0,1.0,3.0,3.0,3.0,2.0,5,5.0,3.0,5.0,1.0,current smoker,never,3.0,few hours a day,2.0,female,right handed,no
+701,5.0,5.0,1.0,1.0,1.0,1.0,3.0,1,1.0,2.0,1.0,2.0,never smoked,never,4.0,few hours a day,3.0,female,right handed,no
+702,5.0,2.0,1.0,1.0,2.0,2.0,4.0,4,4.0,1.0,3.0,1.0,current smoker,social drinker,3.0,most of the day,5.0,male,right handed,no
+703,4.0,5.0,1.0,1.0,1.0,1.0,1.0,2,1.0,1.0,3.0,2.0,current smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+704,5.0,4.0,1.0,1.0,4.0,1.0,5.0,4,2.0,3.0,4.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,4.0,female,right handed,no
+705,5.0,5.0,1.0,4.0,1.0,1.0,1.0,5,1.0,1.0,1.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+706,5.0,1.0,3.0,1.0,1.0,2.0,1.0,1,1.0,3.0,1.0,5.0,current smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,yes
+707,5.0,2.0,1.0,1.0,1.0,2.0,1.0,2,3.0,5.0,3.0,4.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+708,5.0,5.0,4.0,1.0,1.0,5.0,1.0,3,1.0,1.0,1.0,2.0,,,2.0,few hours a day,2.0,male,right handed,no
+709,5.0,3.0,1.0,2.0,2.0,2.0,1.0,1,2.0,3.0,2.0,4.0,current smoker,drink a lot,3.0,less than an hour a day,3.0,female,right handed,yes
+710,4.0,2.0,3.0,1.0,1.0,2.0,2.0,1,1.0,5.0,2.0,1.0,former smoker,drink a lot,4.0,few hours a day,3.0,female,right handed,no
+711,4.0,5.0,3.0,2.0,4.0,5.0,2.0,5,4.0,1.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+712,5.0,3.0,1.0,2.0,3.0,3.0,5.0,4,3.0,1.0,3.0,3.0,never smoked,never,4.0,few hours a day,4.0,female,right handed,no
+713,5.0,3.0,1.0,4.0,3.0,4.0,5.0,3,3.0,4.0,3.0,1.0,former smoker,social drinker,3.0,most of the day,2.0,female,right handed,no
+714,5.0,5.0,1.0,4.0,4.0,4.0,4.0,4,4.0,1.0,4.0,5.0,tried smoking,social drinker,4.0,less than an hour a day,3.0,female,right handed,yes
+715,4.0,5.0,1.0,2.0,2.0,2.0,2.0,1,1.0,1.0,2.0,2.0,never smoked,never,3.0,few hours a day,4.0,male,left handed,no
+716,5.0,2.0,1.0,1.0,2.0,3.0,3.0,1,1.0,1.0,3.0,3.0,former smoker,drink a lot,4.0,less than an hour a day,4.0,male,right handed,no
+717,5.0,5.0,1.0,1.0,1.0,2.0,3.0,4,1.0,1.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+718,5.0,4.0,3.0,3.0,2.0,1.0,5.0,1,1.0,3.0,3.0,2.0,never smoked,social drinker,3.0,less than an hour a day,2.0,female,right handed,no
+719,4.0,3.0,1.0,2.0,2.0,2.0,2.0,2,2.0,2.0,3.0,3.0,former smoker,social drinker,3.0,few hours a day,2.0,male,left handed,no
+720,4.0,1.0,1.0,1.0,3.0,1.0,1.0,2,1.0,1.0,5.0,5.0,former smoker,social drinker,4.0,few hours a day,2.0,female,right handed,no
+721,5.0,1.0,1.0,1.0,1.0,1.0,3.0,1,1.0,1.0,1.0,1.0,never smoked,social drinker,5.0,less than an hour a day,4.0,female,right handed,no
+722,5.0,1.0,3.0,3.0,5.0,3.0,2.0,4,4.0,2.0,4.0,3.0,former smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,yes
+723,5.0,1.0,2.0,3.0,4.0,5.0,5.0,5,4.0,5.0,5.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+724,4.0,2.0,1.0,2.0,2.0,1.0,5.0,3,1.0,2.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+725,5.0,3.0,1.0,1.0,1.0,4.0,1.0,1,1.0,3.0,1.0,4.0,current smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,yes
+726,5.0,5.0,1.0,1.0,1.0,4.0,3.0,3,1.0,3.0,4.0,1.0,current smoker,drink a lot,3.0,less than an hour a day,4.0,male,right handed,no
+727,5.0,1.0,3.0,1.0,1.0,5.0,3.0,5,5.0,2.0,3.0,3.0,tried smoking,never,3.0,less than an hour a day,5.0,male,left handed,yes
+728,5.0,5.0,1.0,1.0,3.0,1.0,5.0,5,5.0,5.0,3.0,1.0,never smoked,social drinker,3.0,few hours a day,5.0,female,right handed,no
+729,5.0,5.0,1.0,1.0,2.0,4.0,2.0,4,2.0,1.0,3.0,4.0,former smoker,social drinker,4.0,few hours a day,3.0,male,right handed,no
+730,5.0,5.0,1.0,3.0,2.0,2.0,2.0,5,3.0,3.0,2.0,1.0,former smoker,never,2.0,few hours a day,1.0,female,right handed,no
+731,5.0,1.0,1.0,2.0,1.0,1.0,1.0,1,1.0,2.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+732,5.0,1.0,3.0,2.0,2.0,2.0,2.0,4,4.0,2.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,yes
+733,4.0,5.0,4.0,2.0,2.0,3.0,2.0,4,4.0,4.0,3.0,2.0,never smoked,social drinker,3.0,most of the day,2.0,female,right handed,no
+734,5.0,1.0,1.0,2.0,1.0,3.0,1.0,2,1.0,2.0,4.0,2.0,never smoked,social drinker,5.0,less than an hour a day,1.0,female,right handed,no
+735,2.0,3.0,5.0,3.0,2.0,4.0,3.0,5,3.0,4.0,5.0,3.0,never smoked,never,5.0,no time at all,2.0,female,right handed,no
+736,4.0,4.0,2.0,2.0,4.0,3.0,3.0,2,1.0,4.0,1.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+737,5.0,5.0,3.0,3.0,4.0,3.0,3.0,2,4.0,5.0,3.0,3.0,former smoker,drink a lot,3.0,most of the day,3.0,female,right handed,yes
+738,5.0,4.0,1.0,1.0,1.0,2.0,1.0,5,1.0,1.0,5.0,3.0,current smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+739,5.0,4.0,1.0,1.0,2.0,1.0,2.0,2,1.0,1.0,1.0,1.0,tried smoking,drink a lot,3.0,few hours a day,1.0,male,right handed,yes
+740,4.0,4.0,1.0,1.0,1.0,1.0,3.0,5,3.0,3.0,1.0,3.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,male,right handed,no
+741,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,never smoked,social drinker,5.0,few hours a day,4.0,female,right handed,no
+742,5.0,1.0,1.0,1.0,2.0,4.0,2.0,2,3.0,1.0,3.0,2.0,former smoker,drink a lot,1.0,few hours a day,5.0,male,right handed,no
+743,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,drink a lot,4.0,few hours a day,5.0,male,right handed,yes
+744,5.0,3.0,1.0,1.0,2.0,3.0,1.0,3,1.0,1.0,3.0,4.0,tried smoking,social drinker,2.0,less than an hour a day,2.0,male,right handed,no
+745,5.0,4.0,2.0,3.0,2.0,4.0,3.0,3,1.0,1.0,2.0,2.0,tried smoking,social drinker,3.0,most of the day,1.0,male,left handed,no
+746,5.0,4.0,4.0,3.0,3.0,3.0,5.0,5,5.0,5.0,5.0,3.0,never smoked,drink a lot,4.0,few hours a day,3.0,female,right handed,no
+747,5.0,1.0,1.0,1.0,3.0,1.0,1.0,1,1.0,1.0,5.0,5.0,former smoker,social drinker,4.0,few hours a day,1.0,female,right handed,no
+748,5.0,5.0,4.0,1.0,3.0,3.0,5.0,1,1.0,3.0,1.0,1.0,never smoked,never,3.0,less than an hour a day,2.0,female,right handed,no
+749,5.0,4.0,3.0,1.0,1.0,3.0,3.0,3,3.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+750,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,2.0,1.0,never smoked,social drinker,3.0,less than an hour a day,3.0,female,left handed,no
+751,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,4.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+752,5.0,1.0,2.0,5.0,4.0,1.0,2.0,4,5.0,4.0,5.0,4.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+753,5.0,5.0,2.0,2.0,2.0,3.0,2.0,4,2.0,3.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+754,4.0,2.0,3.0,2.0,1.0,1.0,2.0,2,2.0,1.0,1.0,1.0,former smoker,drink a lot,1.0,few hours a day,3.0,male,right handed,yes
+755,5.0,5.0,3.0,4.0,4.0,3.0,1.0,3,3.0,4.0,3.0,4.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+756,5.0,5.0,2.0,1.0,2.0,2.0,1.0,2,1.0,3.0,2.0,1.0,former smoker,drink a lot,4.0,few hours a day,3.0,male,right handed,no
+757,5.0,4.0,1.0,2.0,5.0,2.0,2.0,4,4.0,2.0,4.0,4.0,former smoker,drink a lot,3.0,few hours a day,4.0,female,right handed,no
+758,5.0,4.0,1.0,2.0,2.0,2.0,2.0,5,3.0,1.0,3.0,3.0,never smoked,social drinker,3.0,few hours a day,3.0,male,right handed,no
+759,5.0,5.0,3.0,2.0,2.0,3.0,2.0,5,2.0,3.0,2.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,yes
+760,5.0,1.0,4.0,1.0,3.0,4.0,3.0,3,2.0,3.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,yes
+761,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,former smoker,drink a lot,2.0,few hours a day,5.0,male,right handed,no
+762,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,social drinker,4.0,less than an hour a day,5.0,male,right handed,yes
+763,5.0,5.0,3.0,3.0,1.0,3.0,3.0,3,5.0,1.0,5.0,4.0,,never,4.0,few hours a day,4.0,male,left handed,no
+764,5.0,2.0,1.0,2.0,2.0,3.0,5.0,5,5.0,4.0,5.0,4.0,never smoked,social drinker,4.0,less than an hour a day,2.0,female,right handed,no
+765,5.0,3.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,3.0,3.0,never smoked,social drinker,3.0,few hours a day,4.0,male,right handed,no
+766,5.0,4.0,4.0,4.0,4.0,4.0,4.0,5,5.0,3.0,3.0,2.0,current smoker,drink a lot,5.0,most of the day,4.0,female,left handed,no
+767,1.0,3.0,2.0,5.0,5.0,3.0,3.0,4,2.0,2.0,3.0,4.0,former smoker,never,3.0,few hours a day,3.0,male,left handed,no
+768,4.0,4.0,1.0,1.0,2.0,3.0,4.0,5,4.0,2.0,3.0,4.0,current smoker,social drinker,2.0,few hours a day,4.0,male,right handed,no
+769,3.0,4.0,2.0,2.0,2.0,2.0,2.0,2,2.0,2.0,2.0,2.0,never smoked,never,3.0,less than an hour a day,4.0,female,right handed,yes
+770,1.0,2.0,1.0,2.0,3.0,4.0,5.0,4,3.0,2.0,1.0,2.0,former smoker,social drinker,2.0,less than an hour a day,5.0,female,right handed,no
+771,5.0,1.0,2.0,1.0,3.0,2.0,1.0,4,3.0,2.0,4.0,4.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,yes
+772,5.0,4.0,3.0,2.0,2.0,2.0,4.0,5,5.0,4.0,4.0,4.0,current smoker,social drinker,3.0,few hours a day,2.0,female,right handed,no
+773,5.0,4.0,2.0,2.0,2.0,2.0,5.0,5,4.0,3.0,2.0,4.0,current smoker,drink a lot,3.0,less than an hour a day,3.0,female,right handed,yes
+774,3.0,1.0,4.0,2.0,2.0,2.0,2.0,2,4.0,2.0,2.0,2.0,tried smoking,social drinker,4.0,most of the day,2.0,female,left handed,yes
+775,5.0,5.0,3.0,2.0,2.0,2.0,3.0,5,3.0,3.0,3.0,2.0,tried smoking,social drinker,5.0,few hours a day,3.0,female,right handed,no
+776,5.0,3.0,4.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,2.0,tried smoking,social drinker,5.0,few hours a day,4.0,male,right handed,no
+777,5.0,1.0,3.0,1.0,1.0,2.0,1.0,1,1.0,2.0,1.0,2.0,former smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+778,5.0,5.0,4.0,3.0,4.0,3.0,5.0,5,3.0,3.0,4.0,5.0,tried smoking,social drinker,3.0,few hours a day,5.0,female,right handed,yes
+779,5.0,5.0,1.0,3.0,3.0,2.0,5.0,2,1.0,1.0,4.0,1.0,never smoked,social drinker,3.0,less than an hour a day,3.0,female,right handed,yes
+780,5.0,5.0,2.0,1.0,2.0,3.0,1.0,5,3.0,2.0,3.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+781,4.0,5.0,1.0,3.0,1.0,1.0,1.0,2,1.0,3.0,5.0,4.0,never smoked,social drinker,3.0,less than an hour a day,1.0,female,right handed,no
+782,5.0,5.0,2.0,4.0,5.0,4.0,2.0,1,1.0,3.0,3.0,3.0,never smoked,social drinker,4.0,most of the day,1.0,female,right handed,no
+783,5.0,5.0,3.0,1.0,,2.0,1.0,3,1.0,3.0,3.0,3.0,tried smoking,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+784,4.0,1.0,1.0,1.0,1.0,1.0,2.0,2,4.0,1.0,2.0,2.0,never smoked,social drinker,4.0,few hours a day,4.0,male,left handed,no
+785,4.0,4.0,1.0,1.0,1.0,3.0,1.0,3,3.0,1.0,2.0,1.0,tried smoking,social drinker,2.0,few hours a day,5.0,male,left handed,yes
+786,5.0,1.0,,1.0,1.0,2.0,1.0,1,1.0,5.0,1.0,1.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,yes
+787,5.0,2.0,2.0,2.0,3.0,2.0,1.0,1,1.0,2.0,2.0,1.0,current smoker,drink a lot,4.0,few hours a day,4.0,male,right handed,no
+788,5.0,1.0,1.0,1.0,3.0,1.0,1.0,2,3.0,5.0,5.0,1.0,tried smoking,social drinker,3.0,less than an hour a day,4.0,female,left handed,no
+789,5.0,5.0,4.0,4.0,5.0,3.0,3.0,4,4.0,5.0,5.0,3.0,tried smoking,drink a lot,4.0,most of the day,5.0,male,right handed,no
+790,5.0,1.0,2.0,2.0,1.0,5.0,2.0,2,1.0,4.0,3.0,4.0,former smoker,never,2.0,few hours a day,1.0,female,right handed,yes
+791,5.0,1.0,2.0,1.0,2.0,2.0,2.0,5,4.0,1.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+792,5.0,3.0,3.0,3.0,3.0,4.0,1.0,1,4.0,4.0,5.0,4.0,former smoker,social drinker,4.0,less than an hour a day,4.0,male,right handed,no
+793,2.0,2.0,3.0,3.0,3.0,4.0,1.0,5,5.0,1.0,3.0,3.0,former smoker,never,5.0,few hours a day,3.0,male,right handed,no
+794,4.0,5.0,1.0,1.0,1.0,1.0,1.0,5,1.0,1.0,1.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,5.0,male,right handed,no
+795,5.0,5.0,1.0,1.0,1.0,1.0,5.0,5,3.0,3.0,1.0,5.0,current smoker,drink a lot,4.0,most of the day,5.0,female,right handed,yes
+796,3.0,4.0,5.0,3.0,4.0,5.0,5.0,5,3.0,4.0,3.0,4.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,male,left handed,no
+797,5.0,1.0,3.0,2.0,1.0,2.0,1.0,1,1.0,2.0,1.0,2.0,former smoker,social drinker,3.0,few hours a day,2.0,male,right handed,no
+798,5.0,1.0,1.0,1.0,1.0,2.0,3.0,1,5.0,2.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,4.0,female,right handed,no
+799,5.0,5.0,2.0,1.0,3.0,2.0,3.0,3,2.0,2.0,2.0,4.0,never smoked,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+800,5.0,1.0,3.0,2.0,1.0,1.0,3.0,4,2.0,4.0,2.0,1.0,never smoked,never,3.0,few hours a day,5.0,male,right handed,no
+801,4.0,2.0,4.0,1.0,1.0,3.0,1.0,1,1.0,4.0,2.0,3.0,current smoker,drink a lot,1.0,less than an hour a day,1.0,female,right handed,no
+802,5.0,4.0,1.0,2.0,3.0,5.0,5.0,2,1.0,4.0,1.0,3.0,former smoker,drink a lot,3.0,few hours a day,4.0,female,right handed,yes
+803,5.0,3.0,1.0,1.0,1.0,2.0,5.0,5,4.0,3.0,3.0,1.0,current smoker,social drinker,4.0,most of the day,2.0,female,right handed,no
+804,5.0,5.0,1.0,1.0,1.0,5.0,5.0,5,4.0,3.0,3.0,4.0,tried smoking,social drinker,4.0,most of the day,1.0,female,right handed,no
+805,5.0,4.0,4.0,4.0,3.0,3.0,5.0,5,5.0,5.0,5.0,4.0,former smoker,social drinker,4.0,few hours a day,4.0,female,left handed,no
+806,1.0,5.0,2.0,1.0,2.0,3.0,1.0,5,1.0,2.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,2.0,male,right handed,no
+807,3.0,5.0,1.0,1.0,1.0,1.0,4.0,5,2.0,3.0,3.0,3.0,current smoker,never,2.0,few hours a day,4.0,male,right handed,yes
+808,5.0,1.0,1.0,1.0,1.0,2.0,2.0,2,1.0,1.0,3.0,3.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+809,4.0,1.0,1.0,1.0,1.0,2.0,1.0,5,1.0,1.0,4.0,2.0,never smoked,drink a lot,2.0,most of the day,5.0,male,right handed,yes
+810,5.0,5.0,1.0,3.0,4.0,5.0,5.0,5,4.0,5.0,4.0,1.0,current smoker,social drinker,3.0,few hours a day,1.0,male,right handed,no
+811,5.0,5.0,4.0,1.0,2.0,2.0,3.0,2,3.0,4.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,male,right handed,no
+812,5.0,4.0,5.0,3.0,2.0,4.0,1.0,5,2.0,3.0,4.0,4.0,never smoked,never,2.0,few hours a day,3.0,female,right handed,no
+813,5.0,5.0,2.0,2.0,2.0,3.0,1.0,5,2.0,3.0,4.0,4.0,never smoked,never,2.0,few hours a day,4.0,male,right handed,no
+814,5.0,5.0,3.0,4.0,5.0,4.0,5.0,3,5.0,4.0,5.0,4.0,current smoker,social drinker,1.0,few hours a day,5.0,female,right handed,yes
+815,5.0,5.0,1.0,1.0,1.0,3.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,no
+816,5.0,5.0,1.0,2.0,3.0,4.0,5.0,1,3.0,5.0,5.0,1.0,current smoker,drink a lot,4.0,few hours a day,5.0,male,right handed,yes
+817,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1,1.0,1.0,1.0,1.0,former smoker,drink a lot,5.0,most of the day,1.0,male,right handed,yes
+818,4.0,4.0,2.0,1.0,1.0,5.0,1.0,1,1.0,1.0,1.0,5.0,never smoked,social drinker,3.0,few hours a day,1.0,male,right handed,no
+819,5.0,5.0,5.0,2.0,2.0,1.0,2.0,3,2.0,1.0,1.0,1.0,never smoked,social drinker,3.0,less than an hour a day,2.0,female,right handed,yes
+820,5.0,1.0,3.0,1.0,1.0,3.0,4.0,5,3.0,1.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,1.0,female,right handed,no
+821,5.0,5.0,4.0,2.0,3.0,5.0,3.0,5,4.0,3.0,3.0,4.0,never smoked,never,3.0,few hours a day,3.0,male,right handed,no
+822,5.0,4.0,2.0,2.0,2.0,3.0,3.0,4,1.0,1.0,1.0,4.0,current smoker,drink a lot,1.0,few hours a day,3.0,female,right handed,no
+823,5.0,1.0,2.0,2.0,1.0,1.0,2.0,2,3.0,4.0,5.0,2.0,current smoker,never,2.0,few hours a day,5.0,male,right handed,yes
+824,5.0,5.0,2.0,2.0,5.0,1.0,1.0,1,1.0,5.0,1.0,2.0,current smoker,social drinker,3.0,most of the day,1.0,female,right handed,no
+825,4.0,5.0,2.0,1.0,5.0,2.0,2.0,1,1.0,4.0,3.0,3.0,tried smoking,drink a lot,3.0,few hours a day,3.0,female,,no
+826,5.0,1.0,1.0,2.0,3.0,3.0,4.0,3,4.0,1.0,4.0,2.0,tried smoking,drink a lot,3.0,few hours a day,2.0,female,right handed,no
+827,5.0,2.0,2.0,3.0,2.0,3.0,2.0,2,2.0,2.0,4.0,2.0,tried smoking,drink a lot,4.0,few hours a day,2.0,female,right handed,no
+828,1.0,2.0,4.0,3.0,2.0,4.0,2.0,3,4.0,3.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,2.0,male,right handed,no
+829,5.0,2.0,1.0,1.0,2.0,5.0,4.0,1,1.0,1.0,1.0,1.0,tried smoking,social drinker,5.0,few hours a day,3.0,female,right handed,yes
+830,5.0,5.0,1.0,1.0,2.0,1.0,5.0,5,3.0,4.0,3.0,4.0,former smoker,drink a lot,4.0,most of the day,5.0,female,right handed,no
+831,5.0,3.0,3.0,3.0,3.0,1.0,3.0,3,3.0,2.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+832,5.0,2.0,2.0,1.0,4.0,1.0,5.0,5,1.0,1.0,4.0,1.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,yes
+833,3.0,1.0,1.0,1.0,3.0,2.0,2.0,5,2.0,2.0,2.0,1.0,current smoker,social drinker,3.0,few hours a day,1.0,male,right handed,yes
+834,4.0,3.0,5.0,1.0,4.0,4.0,4.0,3,2.0,3.0,2.0,4.0,tried smoking,social drinker,4.0,less than an hour a day,4.0,male,right handed,no
+835,4.0,1.0,1.0,2.0,1.0,1.0,3.0,2,1.0,4.0,3.0,1.0,never smoked,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+836,5.0,4.0,1.0,1.0,1.0,3.0,1.0,1,1.0,4.0,1.0,3.0,tried smoking,social drinker,2.0,few hours a day,5.0,male,right handed,yes
+837,5.0,3.0,4.0,1.0,2.0,3.0,2.0,1,1.0,2.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,1.0,male,right handed,no
+838,5.0,5.0,2.0,1.0,3.0,2.0,5.0,4,3.0,2.0,3.0,3.0,former smoker,social drinker,1.0,few hours a day,4.0,female,right handed,yes
+839,4.0,5.0,3.0,3.0,3.0,1.0,2.0,2,2.0,5.0,4.0,2.0,current smoker,drink a lot,3.0,few hours a day,3.0,female,right handed,no
+840,5.0,3.0,2.0,2.0,3.0,2.0,2.0,4,2.0,4.0,5.0,3.0,former smoker,social drinker,4.0,most of the day,4.0,female,right handed,no
+841,5.0,1.0,5.0,3.0,1.0,3.0,4.0,4,4.0,3.0,3.0,2.0,tried smoking,social drinker,5.0,few hours a day,5.0,male,left handed,no
+842,,4.0,1.0,5.0,5.0,3.0,5.0,5,5.0,1.0,5.0,3.0,former smoker,social drinker,1.0,few hours a day,1.0,female,right handed,yes
+843,5.0,5.0,1.0,1.0,1.0,1.0,5.0,1,5.0,4.0,5.0,3.0,former smoker,social drinker,3.0,few hours a day,5.0,female,right handed,no
+844,5.0,4.0,1.0,1.0,1.0,1.0,1.0,3,1.0,1.0,3.0,1.0,former smoker,never,4.0,few hours a day,5.0,male,right handed,no
+845,4.0,4.0,2.0,5.0,3.0,3.0,3.0,4,4.0,5.0,5.0,4.0,current smoker,drink a lot,3.0,most of the day,3.0,female,right handed,yes
+846,5.0,5.0,5.0,2.0,2.0,4.0,5.0,5,5.0,4.0,5.0,3.0,current smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+847,5.0,5.0,2.0,1.0,2.0,4.0,4.0,4,5.0,2.0,1.0,4.0,tried smoking,drink a lot,1.0,few hours a day,2.0,female,left handed,no
+848,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,former smoker,drink a lot,2.0,few hours a day,5.0,male,right handed,no
+849,3.0,4.0,1.0,3.0,4.0,1.0,4.0,3,2.0,5.0,3.0,2.0,current smoker,never,2.0,most of the day,1.0,female,left handed,no
+850,4.0,5.0,3.0,4.0,1.0,2.0,5.0,1,1.0,3.0,2.0,4.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,yes
+851,5.0,3.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,5.0,3.0,current smoker,social drinker,5.0,few hours a day,5.0,male,right handed,no
+852,5.0,5.0,1.0,1.0,2.0,2.0,2.0,2,1.0,2.0,2.0,1.0,tried smoking,social drinker,4.0,few hours a day,5.0,male,right handed,no
+853,5.0,5.0,1.0,1.0,1.0,1.0,1.0,2,3.0,3.0,4.0,1.0,former smoker,social drinker,5.0,few hours a day,1.0,female,right handed,no
+854,5.0,3.0,3.0,1.0,2.0,4.0,5.0,5,3.0,4.0,2.0,1.0,tried smoking,drink a lot,4.0,few hours a day,4.0,male,left handed,yes
+855,5.0,3.0,4.0,1.0,1.0,1.0,4.0,4,1.0,2.0,3.0,5.0,current smoker,social drinker,4.0,few hours a day,4.0,male,right handed,no
+856,5.0,5.0,2.0,2.0,2.0,2.0,4.0,5,5.0,1.0,4.0,2.0,current smoker,drink a lot,3.0,few hours a day,2.0,female,right handed,no
+857,5.0,5.0,1.0,1.0,2.0,1.0,2.0,4,1.0,5.0,3.0,3.0,current smoker,social drinker,4.0,most of the day,2.0,male,right handed,no
+858,3.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+859,5.0,5.0,1.0,1.0,1.0,4.0,2.0,2,2.0,5.0,3.0,2.0,tried smoking,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+860,5.0,4.0,1.0,1.0,2.0,1.0,3.0,3,2.0,1.0,2.0,1.0,current smoker,social drinker,3.0,few hours a day,4.0,male,right handed,no
+861,5.0,5.0,1.0,2.0,2.0,2.0,5.0,2,1.0,3.0,1.0,4.0,tried smoking,drink a lot,2.0,few hours a day,2.0,female,right handed,no
+862,5.0,5.0,1.0,1.0,1.0,3.0,1.0,3,1.0,1.0,3.0,1.0,current smoker,social drinker,4.0,few hours a day,5.0,male,right handed,no
+863,5.0,5.0,2.0,1.0,2.0,1.0,2.0,5,1.0,1.0,3.0,2.0,current smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+864,5.0,3.0,2.0,2.0,2.0,3.0,4.0,4,3.0,3.0,3.0,4.0,former smoker,drink a lot,3.0,few hours a day,3.0,male,right handed,no
+865,4.0,3.0,3.0,2.0,3.0,2.0,4.0,3,4.0,2.0,3.0,2.0,former smoker,social drinker,2.0,less than an hour a day,2.0,female,right handed,no
+866,4.0,3.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,1.0,5.0,tried smoking,drink a lot,2.0,most of the day,3.0,male,right handed,no
+867,5.0,5.0,2.0,1.0,1.0,5.0,5.0,4,3.0,3.0,1.0,5.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+868,5.0,4.0,4.0,2.0,2.0,3.0,1.0,2,4.0,4.0,2.0,3.0,current smoker,drink a lot,4.0,few hours a day,3.0,male,right handed,yes
+869,5.0,5.0,1.0,2.0,2.0,4.0,3.0,1,1.0,2.0,1.0,3.0,tried smoking,drink a lot,2.0,few hours a day,4.0,female,right handed,no
+870,5.0,2.0,5.0,2.0,3.0,3.0,4.0,4,3.0,3.0,2.0,2.0,tried smoking,never,3.0,few hours a day,4.0,female,right handed,no
+871,5.0,5.0,3.0,1.0,1.0,1.0,5.0,5,1.0,1.0,1.0,3.0,tried smoking,drink a lot,5.0,most of the day,5.0,male,right handed,no
+872,5.0,2.0,2.0,2.0,2.0,3.0,2.0,2,2.0,2.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,1.0,male,right handed,no
+873,4.0,2.0,1.0,1.0,3.0,5.0,2.0,2,2.0,3.0,4.0,4.0,tried smoking,drink a lot,3.0,few hours a day,4.0,male,right handed,yes
+874,5.0,4.0,1.0,1.0,2.0,1.0,2.0,3,4.0,3.0,4.0,3.0,current smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+875,5.0,5.0,1.0,1.0,3.0,4.0,1.0,2,2.0,2.0,3.0,5.0,former smoker,social drinker,3.0,few hours a day,4.0,female,right handed,no
+876,5.0,4.0,1.0,1.0,1.0,1.0,2.0,1,3.0,1.0,2.0,1.0,former smoker,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+877,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,4.0,3.0,never smoked,social drinker,5.0,few hours a day,2.0,male,right handed,no
+878,4.0,4.0,3.0,2.0,2.0,4.0,2.0,3,4.0,2.0,3.0,3.0,never smoked,never,4.0,less than an hour a day,4.0,male,left handed,yes
+879,4.0,5.0,3.0,2.0,1.0,2.0,1.0,1,1.0,2.0,2.0,3.0,tried smoking,social drinker,3.0,less than an hour a day,3.0,male,right handed,yes
+880,5.0,4.0,1.0,1.0,1.0,1.0,2.0,3,4.0,2.0,4.0,3.0,current smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+881,5.0,5.0,1.0,2.0,3.0,4.0,4.0,1,1.0,2.0,1.0,3.0,tried smoking,drink a lot,2.0,few hours a day,4.0,female,right handed,no
+882,5.0,1.0,2.0,1.0,1.0,5.0,1.0,2,1.0,1.0,3.0,5.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+883,5.0,1.0,1.0,1.0,2.0,3.0,1.0,3,4.0,5.0,3.0,4.0,tried smoking,drink a lot,4.0,few hours a day,2.0,female,right handed,no
+884,5.0,5.0,1.0,4.0,4.0,1.0,5.0,5,5.0,5.0,5.0,5.0,tried smoking,drink a lot,3.0,few hours a day,5.0,female,right handed,no
+885,3.0,5.0,1.0,1.0,2.0,4.0,1.0,1,1.0,4.0,3.0,2.0,current smoker,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+886,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,3.0,1.0,2.0,current smoker,drink a lot,2.0,few hours a day,4.0,male,right handed,no
+887,4.0,3.0,2.0,3.0,4.0,4.0,3.0,2,2.0,3.0,5.0,3.0,tried smoking,drink a lot,3.0,less than an hour a day,2.0,male,right handed,yes
+888,5.0,5.0,2.0,2.0,2.0,3.0,3.0,3,5.0,4.0,2.0,3.0,tried smoking,social drinker,4.0,less than an hour a day,3.0,female,right handed,no
+889,5.0,1.0,4.0,1.0,2.0,1.0,4.0,4,5.0,1.0,5.0,4.0,tried smoking,social drinker,2.0,few hours a day,4.0,female,right handed,no
+890,5.0,3.0,1.0,1.0,1.0,2.0,2.0,3,1.0,1.0,5.0,4.0,tried smoking,social drinker,3.0,few hours a day,5.0,male,right handed,no
+891,5.0,4.0,1.0,1.0,2.0,1.0,3.0,4,1.0,1.0,3.0,3.0,current smoker,social drinker,3.0,few hours a day,3.0,male,right handed,no
+892,5.0,2.0,1.0,1.0,1.0,3.0,3.0,3,2.0,1.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,right handed,yes
+893,5.0,2.0,2.0,3.0,4.0,3.0,2.0,2,2.0,3.0,3.0,2.0,former smoker,social drinker,3.0,less than an hour a day,3.0,female,right handed,yes
+894,5.0,4.0,4.0,2.0,2.0,2.0,3.0,5,4.0,5.0,3.0,4.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+895,4.0,4.0,1.0,2.0,2.0,2.0,3.0,3,4.0,3.0,4.0,4.0,never smoked,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+896,5.0,3.0,2.0,2.0,2.0,2.0,2.0,5,3.0,3.0,3.0,2.0,tried smoking,drink a lot,3.0,few hours a day,2.0,male,right handed,no
+897,5.0,3.0,2.0,3.0,2.0,4.0,2.0,3,2.0,1.0,2.0,3.0,current smoker,never,3.0,few hours a day,3.0,male,left handed,no
+898,5.0,3.0,2.0,3.0,2.0,3.0,2.0,2,1.0,3.0,4.0,3.0,former smoker,social drinker,3.0,less than an hour a day,3.0,female,,no
+899,5.0,5.0,1.0,1.0,2.0,1.0,1.0,1,1.0,3.0,1.0,1.0,current smoker,social drinker,3.0,few hours a day,5.0,male,left handed,no
+900,5.0,3.0,3.0,2.0,3.0,4.0,2.0,3,3.0,4.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,no
+901,4.0,5.0,1.0,2.0,2.0,4.0,5.0,4,2.0,2.0,1.0,2.0,tried smoking,never,4.0,less than an hour a day,1.0,female,right handed,no
+902,5.0,3.0,2.0,1.0,1.0,2.0,4.0,3,1.0,1.0,3.0,3.0,never smoked,never,3.0,few hours a day,3.0,male,right handed,no
+903,5.0,3.0,1.0,3.0,1.0,1.0,1.0,1,2.0,1.0,2.0,1.0,former smoker,drink a lot,4.0,few hours a day,1.0,male,right handed,no
+904,3.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+905,5.0,2.0,1.0,1.0,1.0,3.0,1.0,4,3.0,1.0,2.0,1.0,never smoked,social drinker,3.0,few hours a day,4.0,male,right handed,no
+906,5.0,1.0,4.0,1.0,2.0,2.0,3.0,5,5.0,5.0,3.0,5.0,current smoker,drink a lot,4.0,less than an hour a day,4.0,female,right handed,no
+907,5.0,2.0,3.0,4.0,4.0,4.0,3.0,4,3.0,3.0,4.0,3.0,tried smoking,drink a lot,1.0,most of the day,4.0,female,right handed,no
+908,5.0,2.0,2.0,3.0,2.0,4.0,3.0,2,4.0,3.0,2.0,3.0,current smoker,social drinker,4.0,few hours a day,4.0,male,right handed,no
+909,5.0,3.0,5.0,4.0,1.0,1.0,2.0,4,4.0,5.0,5.0,4.0,tried smoking,drink a lot,5.0,less than an hour a day,3.0,female,left handed,no
+910,5.0,1.0,1.0,1.0,2.0,2.0,1.0,5,3.0,5.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,yes
+911,5.0,5.0,1.0,1.0,1.0,3.0,1.0,1,1.0,2.0,1.0,3.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+912,5.0,4.0,4.0,3.0,2.0,4.0,,5,1.0,3.0,3.0,2.0,former smoker,social drinker,4.0,less than an hour a day,2.0,female,right handed,yes
+913,5.0,2.0,3.0,2.0,3.0,3.0,5.0,1,2.0,5.0,2.0,3.0,former smoker,drink a lot,3.0,few hours a day,1.0,female,right handed,yes
+914,5.0,3.0,1.0,1.0,4.0,3.0,1.0,1,1.0,4.0,1.0,4.0,current smoker,drink a lot,2.0,few hours a day,1.0,female,right handed,no
+915,4.0,5.0,2.0,2.0,4.0,4.0,4.0,3,3.0,1.0,2.0,4.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+916,4.0,4.0,1.0,1.0,1.0,4.0,1.0,3,1.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,no
+917,5.0,3.0,3.0,1.0,1.0,2.0,1.0,1,1.0,1.0,2.0,2.0,current smoker,social drinker,2.0,few hours a day,5.0,male,right handed,no
+918,4.0,4.0,3.0,1.0,2.0,3.0,1.0,2,3.0,1.0,5.0,3.0,tried smoking,social drinker,3.0,most of the day,3.0,female,right handed,no
+919,5.0,1.0,1.0,1.0,2.0,1.0,2.0,2,2.0,1.0,3.0,1.0,former smoker,drink a lot,4.0,few hours a day,5.0,female,left handed,no
+920,4.0,1.0,2.0,1.0,1.0,3.0,3.0,2,2.0,4.0,3.0,4.0,tried smoking,social drinker,3.0,few hours a day,2.0,female,right handed,no
+921,5.0,4.0,1.0,3.0,3.0,4.0,2.0,3,2.0,3.0,2.0,3.0,never smoked,never,1.0,few hours a day,3.0,male,right handed,yes
+922,5.0,5.0,1.0,1.0,3.0,1.0,5.0,5,2.0,1.0,1.0,3.0,current smoker,social drinker,3.0,few hours a day,5.0,female,right handed,no
+923,5.0,3.0,3.0,2.0,2.0,5.0,4.0,3,1.0,4.0,3.0,4.0,tried smoking,drink a lot,4.0,few hours a day,3.0,female,right handed,no
+924,5.0,5.0,1.0,1.0,1.0,4.0,1.0,2,1.0,2.0,2.0,2.0,tried smoking,social drinker,4.0,few hours a day,5.0,female,right handed,yes
+925,5.0,5.0,3.0,1.0,2.0,4.0,4.0,4,4.0,2.0,4.0,2.0,tried smoking,social drinker,5.0,few hours a day,3.0,female,right handed,no
+926,5.0,1.0,3.0,1.0,1.0,2.0,1.0,4,2.0,5.0,2.0,3.0,never smoked,never,3.0,few hours a day,3.0,male,right handed,no
+927,5.0,5.0,1.0,1.0,5.0,2.0,1.0,1,1.0,5.0,1.0,4.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+928,5.0,5.0,4.0,1.0,2.0,2.0,5.0,5,1.0,2.0,1.0,5.0,never smoked,social drinker,2.0,few hours a day,1.0,female,right handed,yes
+929,3.0,3.0,3.0,5.0,3.0,4.0,2.0,4,2.0,1.0,3.0,3.0,tried smoking,never,3.0,few hours a day,4.0,female,right handed,yes
+930,5.0,1.0,3.0,3.0,3.0,4.0,5.0,5,5.0,3.0,5.0,4.0,former smoker,social drinker,3.0,few hours a day,2.0,female,left handed,no
+931,5.0,3.0,3.0,4.0,2.0,2.0,1.0,1,2.0,1.0,3.0,2.0,current smoker,social drinker,4.0,most of the day,2.0,male,right handed,no
+932,5.0,2.0,4.0,5.0,5.0,5.0,5.0,2,1.0,1.0,1.0,3.0,tried smoking,social drinker,4.0,few hours a day,4.0,female,right handed,no
+933,5.0,5.0,1.0,2.0,2.0,1.0,5.0,5,5.0,3.0,4.0,2.0,current smoker,drink a lot,3.0,few hours a day,4.0,female,right handed,no
+934,5.0,4.0,2.0,1.0,4.0,2.0,4.0,1,1.0,3.0,4.0,4.0,tried smoking,social drinker,3.0,few hours a day,2.0,,right handed,yes
+935,5.0,5.0,2.0,1.0,2.0,2.0,5.0,5,3.0,5.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,no
+936,4.0,2.0,3.0,2.0,4.0,3.0,5.0,4,4.0,2.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+937,5.0,5.0,1.0,3.0,4.0,2.0,3.0,5,4.0,4.0,3.0,4.0,never smoked,social drinker,2.0,few hours a day,2.0,female,right handed,yes
+938,5.0,5.0,3.0,2.0,4.0,5.0,3.0,2,4.0,5.0,5.0,3.0,former smoker,social drinker,5.0,few hours a day,4.0,female,right handed,yes
+939,4.0,4.0,4.0,1.0,1.0,3.0,5.0,1,2.0,3.0,1.0,2.0,never smoked,never,4.0,few hours a day,3.0,female,right handed,yes
+940,5.0,4.0,1.0,3.0,4.0,5.0,3.0,5,1.0,5.0,3.0,4.0,tried smoking,never,4.0,few hours a day,5.0,male,right handed,no
+941,5.0,2.0,5.0,2.0,2.0,1.0,2.0,4,4.0,5.0,3.0,2.0,current smoker,,1.0,few hours a day,5.0,female,right handed,no
+942,5.0,5.0,1.0,1.0,1.0,3.0,1.0,1,1.0,4.0,4.0,5.0,tried smoking,drink a lot,3.0,most of the day,3.0,male,right handed,yes
+943,4.0,5.0,2.0,2.0,2.0,1.0,2.0,2,1.0,1.0,2.0,1.0,current smoker,social drinker,3.0,less than an hour a day,3.0,female,right handed,no
+944,5.0,5.0,1.0,1.0,2.0,2.0,5.0,3,2.0,1.0,2.0,4.0,never smoked,social drinker,4.0,few hours a day,3.0,female,right handed,no
+945,5.0,5.0,1.0,1.0,3.0,2.0,1.0,1,1.0,1.0,1.0,1.0,current smoker,drink a lot,3.0,few hours a day,4.0,male,right handed,no
+946,5.0,1.0,3.0,1.0,1.0,2.0,4.0,3,3.0,5.0,5.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+947,5.0,3.0,2.0,1.0,2.0,3.0,3.0,4,3.0,3.0,4.0,3.0,tried smoking,social drinker,3.0,few hours a day,3.0,female,right handed,yes
+948,5.0,5.0,4.0,3.0,1.0,2.0,4.0,4,4.0,3.0,4.0,2.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+949,5.0,5.0,1.0,1.0,1.0,2.0,1.0,1,2.0,1.0,1.0,2.0,tried smoking,social drinker,3.0,most of the day,3.0,female,right handed,no
+950,5.0,5.0,1.0,2.0,5.0,3.0,5.0,1,3.0,3.0,1.0,3.0,never smoked,never,3.0,most of the day,5.0,male,left handed,yes
+951,4.0,1.0,3.0,1.0,1.0,4.0,3.0,2,1.0,3.0,2.0,4.0,former smoker,drink a lot,1.0,most of the day,5.0,male,right handed,no
+952,5.0,2.0,3.0,1.0,1.0,4.0,2.0,3,2.0,3.0,4.0,3.0,never smoked,never,4.0,few hours a day,1.0,male,right handed,yes
+953,5.0,4.0,3.0,4.0,4.0,4.0,5.0,5,1.0,4.0,4.0,4.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+954,5.0,4.0,4.0,5.0,3.0,3.0,3.0,4,2.0,5.0,2.0,2.0,former smoker,social drinker,4.0,few hours a day,4.0,female,right handed,no
+955,5.0,5.0,1.0,1.0,1.0,1.0,2.0,1,1.0,1.0,1.0,3.0,current smoker,drink a lot,3.0,few hours a day,1.0,female,right handed,no
+956,5.0,4.0,1.0,1.0,1.0,4.0,1.0,1,1.0,2.0,4.0,4.0,current smoker,drink a lot,3.0,most of the day,2.0,male,right handed,yes
+957,5.0,1.0,1.0,1.0,1.0,3.0,3.0,3,1.0,1.0,2.0,3.0,never smoked,social drinker,4.0,few hours a day,5.0,male,right handed,no
+958,5.0,5.0,3.0,2.0,4.0,3.0,5.0,5,5.0,2.0,4.0,3.0,tried smoking,social drinker,4.0,few hours a day,2.0,female,right handed,no
+959,4.0,4.0,1.0,2.0,4.0,3.0,5.0,5,3.0,2.0,2.0,3.0,current smoker,social drinker,4.0,few hours a day,3.0,female,left handed,no
+960,5.0,1.0,2.0,1.0,2.0,1.0,3.0,3,1.0,1.0,3.0,1.0,never smoked,social drinker,3.0,few hours a day,1.0,female,right handed,no
+961,5.0,5.0,1.0,1.0,1.0,2.0,1.0,1,1.0,1.0,2.0,3.0,tried smoking,social drinker,3.0,few hours a day,4.0,male,left handed,no
+962,5.0,1.0,5.0,2.0,1.0,3.0,1.0,1,1.0,3.0,3.0,5.0,never smoked,never,4.0,less than an hour a day,4.0,female,right handed,no
+963,4.0,3.0,1.0,1.0,1.0,3.0,1.0,1,1.0,1.0,1.0,1.0,current smoker,social drinker,1.0,most of the day,1.0,male,left handed,yes
+964,5.0,4.0,2.0,2.0,2.0,3.0,3.0,3,2.0,2.0,2.0,4.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,right handed,yes
+965,5.0,1.0,5.0,3.0,5.0,1.0,5.0,5,3.0,1.0,5.0,5.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+966,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,social drinker,1.0,less than an hour a day,5.0,female,left handed,no
+967,5.0,4.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,3.0,never smoked,social drinker,4.0,few hours a day,1.0,male,right handed,no
+968,5.0,4.0,1.0,1.0,1.0,1.0,1.0,3,2.0,2.0,2.0,2.0,tried smoking,social drinker,3.0,few hours a day,3.0,male,left handed,no
+969,5.0,1.0,1.0,4.0,5.0,4.0,2.0,3,4.0,1.0,2.0,3.0,former smoker,drink a lot,2.0,few hours a day,1.0,male,right handed,no
+970,5.0,3.0,1.0,1.0,1.0,5.0,2.0,3,4.0,1.0,3.0,4.0,current smoker,drink a lot,3.0,few hours a day,5.0,male,right handed,no
+971,5.0,3.0,3.0,4.0,3.0,3.0,3.0,4,1.0,4.0,5.0,4.0,tried smoking,social drinker,4.0,few hours a day,4.0,male,right handed,no
+972,5.0,5.0,1.0,4.0,5.0,3.0,5.0,5,1.0,3.0,4.0,3.0,tried smoking,social drinker,4.0,less than an hour a day,2.0,female,right handed,yes
+973,5.0,4.0,2.0,4.0,2.0,3.0,2.0,4,1.0,2.0,2.0,5.0,current smoker,social drinker,3.0,most of the day,1.0,female,right handed,no
+974,5.0,3.0,2.0,2.0,3.0,3.0,3.0,1,1.0,1.0,1.0,3.0,current smoker,drink a lot,1.0,few hours a day,4.0,female,right handed,yes
+975,5.0,5.0,1.0,1.0,1.0,3.0,5.0,3,4.0,4.0,4.0,3.0,current smoker,drink a lot,2.0,most of the day,4.0,female,right handed,yes
+976,5.0,2.0,4.0,2.0,2.0,2.0,4.0,4,3.0,1.0,3.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,yes
+977,5.0,3.0,3.0,2.0,2.0,2.0,2.0,3,2.0,3.0,2.0,3.0,current smoker,drink a lot,2.0,few hours a day,5.0,male,right handed,no
+978,5.0,4.0,3.0,1.0,4.0,3.0,4.0,4,3.0,4.0,2.0,3.0,tried smoking,social drinker,4.0,few hours a day,3.0,female,right handed,no
+979,5.0,4.0,2.0,1.0,2.0,3.0,4.0,3,3.0,4.0,3.0,2.0,never smoked,social drinker,3.0,few hours a day,5.0,male,left handed,yes
+980,5.0,3.0,1.0,2.0,1.0,2.0,5.0,1,1.0,4.0,4.0,1.0,,drink a lot,4.0,less than an hour a day,4.0,female,right handed,no
+981,5.0,1.0,2.0,1.0,2.0,3.0,5.0,4,4.0,3.0,4.0,3.0,tried smoking,social drinker,2.0,most of the day,4.0,female,left handed,no
+982,5.0,4.0,1.0,2.0,4.0,2.0,1.0,2,2.0,5.0,3.0,3.0,tried smoking,drink a lot,4.0,few hours a day,3.0,male,right handed,no
+983,5.0,4.0,4.0,1.0,3.0,3.0,5.0,5,5.0,2.0,5.0,2.0,tried smoking,social drinker,3.0,few hours a day,5.0,female,right handed,no
+984,5.0,4.0,1.0,1.0,4.0,5.0,5.0,2,1.0,1.0,3.0,2.0,current smoker,drink a lot,1.0,most of the day,2.0,female,right handed,yes
+985,5.0,2.0,3.0,2.0,3.0,3.0,4.0,2,1.0,1.0,4.0,4.0,former smoker,social drinker,1.0,few hours a day,3.0,female,right handed,no
+986,4.0,1.0,1.0,1.0,3.0,1.0,1.0,4,1.0,1.0,5.0,1.0,tried smoking,social drinker,3.0,few hours a day,1.0,female,right handed,no
+987,4.0,2.0,,1.0,2.0,5.0,2.0,2,1.0,3.0,4.0,3.0,current smoker,drink a lot,2.0,few hours a day,1.0,male,right handed,no
+988,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,1.0,tried smoking,drink a lot,3.0,few hours a day,1.0,male,right handed,yes
+989,5.0,1.0,2.0,5.0,4.0,5.0,1.0,1,1.0,2.0,1.0,1.0,former smoker,drink a lot,3.0,most of the day,3.0,female,right handed,no
+990,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,1.0,2.0,former smoker,social drinker,2.0,few hours a day,5.0,male,right handed,no
+991,5.0,5.0,5.0,3.0,1.0,5.0,3.0,5,3.0,1.0,3.0,3.0,tried smoking,social drinker,1.0,most of the day,3.0,male,right handed,yes
+992,4.0,1.0,3.0,1.0,1.0,5.0,5.0,3,2.0,2.0,3.0,4.0,never smoked,never,3.0,most of the day,1.0,male,right handed,no
+993,5.0,2.0,2.0,2.0,2.0,1.0,3.0,3,3.0,2.0,4.0,3.0,former smoker,social drinker,3.0,few hours a day,2.0,female,right handed,yes
+994,5.0,5.0,1.0,1.0,1.0,1.0,4.0,4,1.0,3.0,1.0,3.0,current smoker,drink a lot,4.0,few hours a day,,female,right handed,yes
+995,5.0,5.0,3.0,2.0,1.0,1.0,1.0,2,1.0,1.0,2.0,2.0,tried smoking,never,4.0,few hours a day,1.0,female,right handed,yes
+996,5.0,2.0,1.0,1.0,2.0,3.0,2.0,1,1.0,1.0,4.0,3.0,former smoker,social drinker,4.0,few hours a day,4.0,male,right handed,yes
+997,5.0,5.0,5.0,3.0,2.0,1.0,4.0,5,4.0,2.0,3.0,4.0,tried smoking,social drinker,,less than an hour a day,1.0,female,right handed,no
+998,5.0,1.0,2.0,1.0,1.0,3.0,1.0,4,1.0,2.0,1.0,2.0,tried smoking,social drinker,3.0,few hours a day,1.0,male,right handed,no
+999,5.0,1.0,2.0,1.0,1.0,,2.0,2,1.0,1.0,2.0,1.0,never smoked,social drinker,3.0,few hours a day,2.0,male,right handed,no
+1000,5.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,5.0,3.0,2.0,never smoked,never,2.0,few hours a day,4.0,female,right handed,no
+1001,5.0,4.0,5.0,1.0,1.0,5.0,1.0,1,1.0,4.0,2.0,2.0,former smoker,never,2.0,few hours a day,4.0,female,right handed,no
+1002,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1,1.0,1.0,1.0,4.0,current smoker,social drinker,2.0,few hours a day,1.0,male,right handed,no
+1003,4.0,5.0,4.0,1.0,1.0,4.0,4.0,5,4.0,1.0,3.0,2.0,former smoker,social drinker,4.0,few hours a day,3.0,female,right handed,no
+1004,5.0,4.0,1.0,1.0,2.0,3.0,3.0,2,2.0,3.0,2.0,3.0,former smoker,social drinker,2.0,few hours a day,3.0,male,right handed,no
+1005,5.0,4.0,1.0,2.0,4.0,5.0,2.0,2,2.0,3.0,3.0,4.0,current smoker,drink a lot,4.0,few hours a day,4.0,female,right handed,no
+1006,4.0,5.0,1.0,1.0,1.0,1.0,1.0,1,1.0,2.0,5.0,5.0,never smoked,social drinker,4.0,less than an hour a day,1.0,male,left handed,no
+1007,4.0,5.0,2.0,1.0,3.0,2.0,2.0,2,1.0,1.0,1.0,5.0,tried smoking,social drinker,4.0,most of the day,5.0,female,right handed,yes
+1008,5.0,4.0,2.0,3.0,2.0,5.0,3.0,3,3.0,3.0,5.0,5.0,tried smoking,social drinker,3.0,most of the day,1.0,female,right handed,no
+1009,5.0,5.0,2.0,1.0,2.0,5.0,1.0,4,2.0,2.0,3.0,2.0,tried smoking,social drinker,3.0,few hours a day,2.0,male,right handed,no
